@@ -1,0 +1,609 @@
+[
+          {
+                    "Name": "Nael General Contracting Est ",
+                    "Data": [
+                              {
+                                        "name": "3.1 Notes",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.2 BILL NO 01 - PRELIMINARIES  ",
+                                        "price": " 4,500,200.00 "
+                              },
+                              {
+                                        "name": "3.3 BILL NO 02-SITE WORK",
+                                        "price": " 317,340.00 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO 03- CONCRETE WORK",
+                                        "price": " 9,377,440.00 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO 04- MASONRY",
+                                        "price": " 2,020,583.00 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO 05 -METAL WORK ",
+                                        "price": " 1,527,642.00 "
+                              },
+                              {
+                                        "name": "3.7 BILL NO 06- THERMAL AND MOISTURE PROTECTION",
+                                        "price": " 988,401.00 "
+                              },
+                              {
+                                        "name": "3.8 BILL NO 07-DOORS AND WINDOWS",
+                                        "price": " 2,022,078.00 "
+                              },
+                              {
+                                        "name": "3.9 BILL NO 08- ACCESSORIES",
+                                        "price": " 1,199,050.00 "
+                              },
+                              {
+                                        "name": "3.10 BILL NO 09- FINISHES",
+                                        "price": " 5,913,430.00 "
+                              },
+                              {
+                                        "name": "3.11 BILL NO 10- FURNITURE & EQUIPMENTS",
+                                        "price": " 2,992,981.00 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO 10- FURNITURE & EQUIPMENTS (continued)",
+                                        "price": " 608,674.00 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO 11- INTERNAL SIGNAGE",
+                                        "price": " 47,100.00 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO 12-1 MECHANICAL ENG. INSTALLATIONS",
+                                        "price": " 12,676,554.00 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO 012-02 ELECTRICAL ENG. INSTALLATIONS",
+                                        "price": " 5,131,548.00 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO 012-02 ELECTRICAL ENG. INSTALLATIONS (continued)",
+                                        "price": " 2,678,698.00 "
+                              },
+                              {
+                                        "name": "3.17 BILL NO 13- CONVEYING SYSTEM ",
+                                        "price": " 564,275.00 "
+                              },
+                              {
+                                        "name": "3.18 BILL NO 14- EXTERNAL CIVIL , MECHANICAL & ELECTRICAL WORKS",
+                                        "price": " 5,143,781.00 "
+                              },
+                              {
+                                        "name": "3.19 BILL NO 15- PROVISIONAL SUM ",
+                                        "price": " 6,367,625.00 "
+                              },
+                              {
+                                        "name": "3.20 MUSANADA IT REQUIREMENTS",
+                                        "price": " 922,600.00 "
+                              }
+                    ]
+          },
+          {
+                    "Name": "CHICAGO MAINTENANCE & CONSTRUCTION CO L L C  BRANCH OF ABU DHABI ",
+                    "Data": [
+                              {
+                                        "name": "3.1 Notes",
+                                        "price": "0"
+                              },
+                              {
+                                        "name": "3.2 BILL NO 01 - PRELIMINARIES  ",
+                                        "price": "8999866.07"
+                              },
+                              {
+                                        "name": "3.3 BILL NO 02-SITE WORK",
+                                        "price": "310674.46"
+                              },
+                              {
+                                        "name": "3.4 BILL NO 03- CONCRETE WORK",
+                                        "price": "9293493.74"
+                              },
+                              {
+                                        "name": "3.5 BILL NO 04- MASONRY",
+                                        "price": "1695127.34"
+                              },
+                              {
+                                        "name": "3.6 BILL NO 05 -METAL WORK ",
+                                        "price": "2431911.33"
+                              },
+                              {
+                                        "name": "3.7 BILL NO 06- THERMAL AND MOISTURE PROTECTION",
+                                        "price": "1381625.66"
+                              },
+                              {
+                                        "name": "3.8 BILL NO 07-DOORS AND WINDOWS",
+                                        "price": "2002230.83"
+                              },
+                              {
+                                        "name": "3.9 BILL NO 08- ACCESSORIES",
+                                        "price": "924028.3"
+                              },
+                              {
+                                        "name": "3.10 BILL NO 09- FINISHES",
+                                        "price": "5096770.75"
+                              },
+                              {
+                                        "name": "3.11 BILL NO 10- FURNITURE & EQUIPMENTS",
+                                        "price": "2201996"
+                              },
+                              {
+                                        "name": "3.12 BILL NO 10- FURNITURE & EQUIPMENTS (continued)",
+                                        "price": "339457"
+                              },
+                              {
+                                        "name": "3.13 BILL NO 11- INTERNAL SIGNAGE",
+                                        "price": "196214.4"
+                              },
+                              {
+                                        "name": "3.14 BILL NO 12-1 MECHANICAL ENG. INSTALLATIONS",
+                                        "price": "22083000"
+                              },
+                              {
+                                        "name": "3.15 BILL NO 012-02 ELECTRICAL ENG. INSTALLATIONS",
+                                        "price": "0"
+                              },
+                              {
+                                        "name": "3.16 BILL NO 012-02 ELECTRICAL ENG. INSTALLATIONS (continued)",
+                                        "price": "0"
+                              },
+                              {
+                                        "name": "3.17 BILL NO 13- CONVEYING SYSTEM ",
+                                        "price": "525300"
+                              },
+                              {
+                                        "name": "3.18 BILL NO 14- EXTERNAL CIVIL , MECHANICAL & ELECTRICAL WORKS",
+                                        "price": "2956240.44"
+                              },
+                              {
+                                        "name": "3.19 BILL NO 15- PROVISIONAL SUM ",
+                                        "price": "5352500"
+                              },
+                              {
+                                        "name": "3.20 MUSANADA IT REQUIREMENTS",
+                                        "price": "609563.68"
+                              }
+                    ]
+          },
+          {
+                    "Name": "Pauling Middle East Company L.L.C",
+                    "Data": [
+                              {
+                                        "name": "3.1 Notes",
+                                        "price": "0"
+                              },
+                              {
+                                        "name": "3.2 BILL NO 01 - PRELIMINARIES  ",
+                                        "price": "10368003.8"
+                              },
+                              {
+                                        "name": "3.3 BILL NO 02-SITE WORK",
+                                        "price": "1839209.9"
+                              },
+                              {
+                                        "name": "3.4 BILL NO 03- CONCRETE WORK",
+                                        "price": "9747723.645"
+                              },
+                              {
+                                        "name": "3.5 BILL NO 04- MASONRY",
+                                        "price": "1828547.094"
+                              },
+                              {
+                                        "name": "3.6 BILL NO 05 -METAL WORK ",
+                                        "price": "2220605.75"
+                              },
+                              {
+                                        "name": "3.7 BILL NO 06- THERMAL AND MOISTURE PROTECTION",
+                                        "price": "1223649.9"
+                              },
+                              {
+                                        "name": "3.8 BILL NO 07-DOORS AND WINDOWS",
+                                        "price": "3038976.05"
+                              },
+                              {
+                                        "name": "3.9 BILL NO 08- ACCESSORIES",
+                                        "price": "1514608.7"
+                              },
+                              {
+                                        "name": "3.10 BILL NO 09- FINISHES",
+                                        "price": "5011119.3"
+                              },
+                              {
+                                        "name": "3.11 BILL NO 10- FURNITURE & EQUIPMENTS",
+                                        "price": "3143526.1"
+                              },
+                              {
+                                        "name": "3.12 BILL NO 10- FURNITURE & EQUIPMENTS (continued)",
+                                        "price": "240863.7"
+                              },
+                              {
+                                        "name": "3.13 BILL NO 11- INTERNAL SIGNAGE",
+                                        "price": "24722.5"
+                              },
+                              {
+                                        "name": "3.14 BILL NO 12-1 MECHANICAL ENG. INSTALLATIONS",
+                                        "price": "9896568"
+                              },
+                              {
+                                        "name": "3.15 BILL NO 012-02 ELECTRICAL ENG. INSTALLATIONS",
+                                        "price": "4906470.8"
+                              },
+                              {
+                                        "name": "3.16 BILL NO 012-02 ELECTRICAL ENG. INSTALLATIONS (continued)",
+                                        "price": "2336345"
+                              },
+                              {
+                                        "name": "3.17 BILL NO 13- CONVEYING SYSTEM ",
+                                        "price": "554400"
+                              },
+                              {
+                                        "name": "3.18 BILL NO 14- EXTERNAL CIVIL , MECHANICAL & ELECTRICAL WORKS",
+                                        "price": "5188036.7"
+                              },
+                              {
+                                        "name": "3.19 BILL NO 15- PROVISIONAL SUM ",
+                                        "price": "5422225"
+                              },
+                              {
+                                        "name": "3.20 MUSANADA IT REQUIREMENTS",
+                                        "price": "463000"
+                              }
+                    ]
+          },
+          {
+                    "Name": "AL ESLAH GENERAL CONTRACTING EST.",
+                    "Data": [
+                              {
+                                        "name": "3.1 Notes",
+                                        "price": "0"
+                              },
+                              {
+                                        "name": "3.2 BILL NO 01 - PRELIMINARIES  ",
+                                        "price": "2825000"
+                              },
+                              {
+                                        "name": "3.3 BILL NO 02-SITE WORK",
+                                        "price": "665538"
+                              },
+                              {
+                                        "name": "3.4 BILL NO 03- CONCRETE WORK",
+                                        "price": "10657450"
+                              },
+                              {
+                                        "name": "3.5 BILL NO 04- MASONRY",
+                                        "price": "1928525"
+                              },
+                              {
+                                        "name": "3.6 BILL NO 05 -METAL WORK ",
+                                        "price": "899000"
+                              },
+                              {
+                                        "name": "3.7 BILL NO 06- THERMAL AND MOISTURE PROTECTION",
+                                        "price": "1311550"
+                              },
+                              {
+                                        "name": "3.8 BILL NO 07-DOORS AND WINDOWS",
+                                        "price": "1967580"
+                              },
+                              {
+                                        "name": "3.9 BILL NO 08- ACCESSORIES",
+                                        "price": "2442110"
+                              },
+                              {
+                                        "name": "3.10 BILL NO 09- FINISHES",
+                                        "price": "6576540"
+                              },
+                              {
+                                        "name": "3.11 BILL NO 10- FURNITURE & EQUIPMENTS",
+                                        "price": "2300000"
+                              },
+                              {
+                                        "name": "3.12 BILL NO 10- FURNITURE & EQUIPMENTS (continued)",
+                                        "price": "0"
+                              },
+                              {
+                                        "name": "3.13 BILL NO 11- INTERNAL SIGNAGE",
+                                        "price": "400000"
+                              },
+                              {
+                                        "name": "3.14 BILL NO 12-1 MECHANICAL ENG. INSTALLATIONS",
+                                        "price": "8000000"
+                              },
+                              {
+                                        "name": "3.15 BILL NO 012-02 ELECTRICAL ENG. INSTALLATIONS",
+                                        "price": "12250000"
+                              },
+                              {
+                                        "name": "3.16 BILL NO 012-02 ELECTRICAL ENG. INSTALLATIONS (continued)",
+                                        "price": "0"
+                              },
+                              {
+                                        "name": "3.17 BILL NO 13- CONVEYING SYSTEM ",
+                                        "price": "830000"
+                              },
+                              {
+                                        "name": "3.18 BILL NO 14- EXTERNAL CIVIL , MECHANICAL & ELECTRICAL WORKS",
+                                        "price": "11613760"
+                              },
+                              {
+                                        "name": "3.19 BILL NO 15- PROVISIONAL SUM ",
+                                        "price": "6181125"
+                              },
+                              {
+                                        "name": "3.20 MUSANADA IT REQUIREMENTS",
+                                        "price": "1834910"
+                              }
+                    ]
+          },
+          {
+                    "Name": "Emirates Link Maltauro ",
+                    "Data": [
+                              {
+                                        "name": "3.1 Notes",
+                                        "price": "0"
+                              },
+                              {
+                                        "name": "3.2 BILL NO 01 - PRELIMINARIES  ",
+                                        "price": "12953675"
+                              },
+                              {
+                                        "name": "3.3 BILL NO 02-SITE WORK",
+                                        "price": "442774"
+                              },
+                              {
+                                        "name": "3.4 BILL NO 03- CONCRETE WORK",
+                                        "price": "11409882"
+                              },
+                              {
+                                        "name": "3.5 BILL NO 04- MASONRY",
+                                        "price": "1411000"
+                              },
+                              {
+                                        "name": "3.6 BILL NO 05 -METAL WORK ",
+                                        "price": "2503288"
+                              },
+                              {
+                                        "name": "3.7 BILL NO 06- THERMAL AND MOISTURE PROTECTION",
+                                        "price": "1586355"
+                              },
+                              {
+                                        "name": "3.8 BILL NO 07-DOORS AND WINDOWS",
+                                        "price": "4698493"
+                              },
+                              {
+                                        "name": "3.9 BILL NO 08- ACCESSORIES",
+                                        "price": "1190619"
+                              },
+                              {
+                                        "name": "3.10 BILL NO 09- FINISHES",
+                                        "price": "5986817"
+                              },
+                              {
+                                        "name": "3.11 BILL NO 10- FURNITURE & EQUIPMENTS",
+                                        "price": "3182915"
+                              },
+                              {
+                                        "name": "3.12 BILL NO 10- FURNITURE & EQUIPMENTS (continued)",
+                                        "price": "281247"
+                              },
+                              {
+                                        "name": "3.13 BILL NO 11- INTERNAL SIGNAGE",
+                                        "price": "49384"
+                              },
+                              {
+                                        "name": "3.14 BILL NO 12-1 MECHANICAL ENG. INSTALLATIONS",
+                                        "price": "14873077"
+                              },
+                              {
+                                        "name": "3.15 BILL NO 012-02 ELECTRICAL ENG. INSTALLATIONS",
+                                        "price": "7263098"
+                              },
+                              {
+                                        "name": "3.16 BILL NO 012-02 ELECTRICAL ENG. INSTALLATIONS (continued)",
+                                        "price": "0"
+                              },
+                              {
+                                        "name": "3.17 BILL NO 13- CONVEYING SYSTEM ",
+                                        "price": "499386"
+                              },
+                              {
+                                        "name": "3.18 BILL NO 14- EXTERNAL CIVIL , MECHANICAL & ELECTRICAL WORKS",
+                                        "price": "4466850"
+                              },
+                              {
+                                        "name": "3.19 BILL NO 15- PROVISIONAL SUM ",
+                                        "price": "5835885"
+                              },
+                              {
+                                        "name": "3.20 MUSANADA IT REQUIREMENTS",
+                                        "price": "615255"
+                              }
+                    ]
+          },
+          {
+                    "Name": "Ranya Contracting Establishment",
+                    "Data": [
+                              {
+                                        "name": "3.1 Notes",
+                                        "price": "0"
+                              },
+                              {
+                                        "name": "3.2 BILL NO 01 - PRELIMINARIES  ",
+                                        "price": "9363859"
+                              },
+                              {
+                                        "name": "3.3 BILL NO 02-SITE WORK",
+                                        "price": "1150840"
+                              },
+                              {
+                                        "name": "3.4 BILL NO 03- CONCRETE WORK",
+                                        "price": "10879399"
+                              },
+                              {
+                                        "name": "3.5 BILL NO 04- MASONRY",
+                                        "price": "1746571"
+                              },
+                              {
+                                        "name": "3.6 BILL NO 05 -METAL WORK ",
+                                        "price": "1770550"
+                              },
+                              {
+                                        "name": "3.7 BILL NO 06- THERMAL AND MOISTURE PROTECTION",
+                                        "price": "1092068"
+                              },
+                              {
+                                        "name": "3.8 BILL NO 07-DOORS AND WINDOWS",
+                                        "price": "2152325"
+                              },
+                              {
+                                        "name": "3.9 BILL NO 08- ACCESSORIES",
+                                        "price": "2301310"
+                              },
+                              {
+                                        "name": "3.10 BILL NO 09- FINISHES",
+                                        "price": "6417179"
+                              },
+                              {
+                                        "name": "3.11 BILL NO 10- FURNITURE & EQUIPMENTS",
+                                        "price": "2000000"
+                              },
+                              {
+                                        "name": "3.12 BILL NO 10- FURNITURE & EQUIPMENTS (continued)",
+                                        "price": "1800000"
+                              },
+                              {
+                                        "name": "3.13 BILL NO 11- INTERNAL SIGNAGE",
+                                        "price": "126000"
+                              },
+                              {
+                                        "name": "3.14 BILL NO 12-1 MECHANICAL ENG. INSTALLATIONS",
+                                        "price": "0"
+                              },
+                              {
+                                        "name": "3.15 BILL NO 012-02 ELECTRICAL ENG. INSTALLATIONS",
+                                        "price": "0"
+                              },
+                              {
+                                        "name": "3.16 BILL NO 012-02 ELECTRICAL ENG. INSTALLATIONS (continued)",
+                                        "price": "0"
+                              },
+                              {
+                                        "name": "3.17 BILL NO 13- CONVEYING SYSTEM ",
+                                        "price": "23800000"
+                              },
+                              {
+                                        "name": "3.18 BILL NO 14- EXTERNAL CIVIL , MECHANICAL & ELECTRICAL WORKS",
+                                        "price": "8260514"
+                              },
+                              {
+                                        "name": "3.19 BILL NO 15- PROVISIONAL SUM ",
+                                        "price": "5837085"
+                              },
+                              {
+                                        "name": "3.20 MUSANADA IT REQUIREMENTS",
+                                        "price": "894300"
+                              }
+                    ]
+          },
+          {
+                    "Name": "Orient House for Development & Construction Co. LLC",
+                    "Data": [
+                              {
+                                        "name": "3.1 Notes",
+                                        "price": "0"
+                              },
+                              {
+                                        "name": "3.2 BILL NO 01 - PRELIMINARIES  ",
+                                        "price": "14688989"
+                              },
+                              {
+                                        "name": "3.3 BILL NO 02-SITE WORK",
+                                        "price": "903234"
+                              },
+                              {
+                                        "name": "3.4 BILL NO 03- CONCRETE WORK",
+                                        "price": "10384115"
+                              },
+                              {
+                                        "name": "3.5 BILL NO 04- MASONRY",
+                                        "price": "2741361"
+                              },
+                              {
+                                        "name": "3.6 BILL NO 05 -METAL WORK ",
+                                        "price": "4092800"
+                              },
+                              {
+                                        "name": "3.7 BILL NO 06- THERMAL AND MOISTURE PROTECTION",
+                                        "price": "1555291"
+                              },
+                              {
+                                        "name": "3.8 BILL NO 07-DOORS AND WINDOWS",
+                                        "price": "3551710"
+                              },
+                              {
+                                        "name": "3.9 BILL NO 08- ACCESSORIES",
+                                        "price": "2268182"
+                              },
+                              {
+                                        "name": "3.10 BILL NO 09- FINISHES",
+                                        "price": "9425201"
+                              },
+                              {
+                                        "name": "3.11 BILL NO 10- FURNITURE & EQUIPMENTS",
+                                        "price": "2996839"
+                              },
+                              {
+                                        "name": "3.12 BILL NO 10- FURNITURE & EQUIPMENTS (continued)",
+                                        "price": "437625"
+                              },
+                              {
+                                        "name": "3.13 BILL NO 11- INTERNAL SIGNAGE",
+                                        "price": "291400"
+                              },
+                              {
+                                        "name": "3.14 BILL NO 12-1 MECHANICAL ENG. INSTALLATIONS",
+                                        "price": "10987435"
+                              },
+                              {
+                                        "name": "3.15 BILL NO 012-02 ELECTRICAL ENG. INSTALLATIONS",
+                                        "price": "4047593"
+                              },
+                              {
+                                        "name": "3.16 BILL NO 012-02 ELECTRICAL ENG. INSTALLATIONS (continued)",
+                                        "price": "1768600"
+                              },
+                              {
+                                        "name": "3.17 BILL NO 13- CONVEYING SYSTEM ",
+                                        "price": "907000"
+                              },
+                              {
+                                        "name": "3.18 BILL NO 14- EXTERNAL CIVIL , MECHANICAL & ELECTRICAL WORKS",
+                                        "price": "6433330"
+                              },
+                              {
+                                        "name": "3.19 BILL NO 15- PROVISIONAL SUM ",
+                                        "price": "5835885"
+                              },
+                              {
+                                        "name": "3.20 MUSANADA IT REQUIREMENTS",
+                                        "price": "583410"
+                              }
+                    ]
+          },
+          {
+                    "Name": "Al Nasr International LLC",
+                    "Data": []
+          },
+          {
+                    "Name": "United Engineering & Contracting Co.",
+                    "Data": []
+          },
+          {
+                    "Name": "yousif general contracting est",
+                    "Data": []
+          }
+]

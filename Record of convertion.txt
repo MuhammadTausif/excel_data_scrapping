@@ -1,0 +1,15 @@
+data 	Done
+data (1) Done
+data (3) Done
+data (4) Done
+data (6) Done
+data (8) Done
+data (9) Done
+data (11) Done
+
+data (12) Not 
+data (13) Not ( Custom)
+data (10) Partial ( 3 column break)
+data (2) Partial ( 2 column break)
+data (5) Not ( 5 column break)
+

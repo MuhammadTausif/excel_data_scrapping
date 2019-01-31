@@ -1,0 +1,3034 @@
+[
+          {
+                    "Name": "AL JABER BUILDING LLC",
+                    "Data": [
+                              {
+                                        "name": "3 Commercial Envelope",
+                                        "price": " 549,999,998.88 "
+                              },
+                              {
+                                        "name": " 3.1 BILL No. 1 - PRELIMINARIES / GENERAL REQUIREMENTS ",
+                                        "price": " 61,201,882.00 "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 2 - INFRASTRUCTURE WORKS: ",
+                                        "price": " 100,561,563.50 "
+                              },
+                              {
+                                        "name": "3.3 Bill No. 2.01 - GROUND INVESTIGATION ",
+                                        "price": " 288,633.00 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 2.02 - DEMOLITION AND SITE CLEARANCE ",
+                                        "price": " 280,642.50 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 2.03 - EARTHWORKS ",
+                                        "price": " 4,731,943.00 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 2.04 - ROADS AND PAVINGS ",
+                                        "price": " 10,439,629.00 "
+                              },
+                              {
+                                        "name": "3.7 Bill No. 2.05 - STREET LIGHTING WORKS ",
+                                        "price": " 2,850,293.00 "
+                              },
+                              {
+                                        "name": "3.8 Bill No. 2.06 - STORM WATER DRAINAGE ",
+                                        "price": " 7,534,375.00 "
+                              },
+                              {
+                                        "name": "3.9 BLL NO. 2.07 - GRAVITY SEWER WORKS ",
+                                        "price": " 19,551,088.00 "
+                              },
+                              {
+                                        "name": "3.10 BLL NO. 2.08 : IRRIGATION WORKS",
+                                        "price": " 684,110.00 "
+                              },
+                              {
+                                        "name": "3.11 Bill 2.09 - WATER WORKS ",
+                                        "price": " 9,933,940.00 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 2.10 - TELECOMMUNICATION DUCT AND OTHER ACCESSORIES",
+                                        "price": " 3,120,155.00 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 2.11 - GAS LINE WORKS ",
+                                        "price": " 6,298,586.00 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 2.12- LANDSCAPE WORKS ",
+                                        "price": " 15,880,027.00 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 2.13 - ELECTRICAL BOQ FOR LV NETWORK ",
+                                        "price": " 18,968,142.00 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 3 - RETAIL SHOPS - 2 NOS",
+                                        "price": " 3,665,670.00 "
+                              },
+                              {
+                                        "name": "3.17 BILL No. 3.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 75,700.00 "
+                              },
+                              {
+                                        "name": "3.18 BILL NO. 3.02 – CONCRETE WORKS              ",
+                                        "price": " 1,023,008.00 "
+                              },
+                              {
+                                        "name": "3.19 BILL NO. 3.03 – BLOCK WORKS             ",
+                                        "price": " 431,830.00 "
+                              },
+                              {
+                                        "name": "3.20 BILL NO. 3.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 209,548.00 "
+                              },
+                              {
+                                        "name": "3.21 BILL NO. 3.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 209,470.00 "
+                              },
+                              {
+                                        "name": "3.22 BILL NO. 3.06 – WOODEN WORKS                                             ",
+                                        "price": " 30,024.00 "
+                              },
+                              {
+                                        "name": "3.23 BILL NO. 3.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 260,300.00 "
+                              },
+                              {
+                                        "name": "3.24 BILL NO. 3.08 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 642,476.00 "
+                              },
+                              {
+                                        "name": "3.25 BILL NO. 3.09 – SANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 202,764.00 "
+                              },
+                              {
+                                        "name": "3.26 BILL NO. 3.10 – AIR CONDITIONING WORKS         ",
+                                        "price": " 520,562.00 "
+                              },
+                              {
+                                        "name": "3.27 BILL NO. 3.11 – EXTERNAL WORKS  ",
+                                        "price": " 59,988.00 "
+                              },
+                              {
+                                        "name": "3.28 BILL NO. 4 - COMMUNITY CENTRE",
+                                        "price": " 2,683,161.00 "
+                              },
+                              {
+                                        "name": "3.29 BILL No. 4.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 51,051.00 "
+                              },
+                              {
+                                        "name": "3.30 BILL NO. 4.02 – CONCRETE WORKS              ",
+                                        "price": " 616,275.00 "
+                              },
+                              {
+                                        "name": "3.31 BILL NO. 4.03 – BLOCK WORKS             ",
+                                        "price": " 103,170.00 "
+                              },
+                              {
+                                        "name": "3.32 BILL NO. 4.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 117,839.00 "
+                              },
+                              {
+                                        "name": "3.33 BILL NO. 4.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 198,837.00 "
+                              },
+                              {
+                                        "name": "3.34 BILL NO. 4.06 – WOODEN WORKS                                             ",
+                                        "price": " 30,724.00 "
+                              },
+                              {
+                                        "name": "3.35 BILL NO. 4.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 312,725.00 "
+                              },
+                              {
+                                        "name": "3.36 BILL NO. 4.08 – KITCHEN CABINETS    ",
+                                        "price": " 31,840.00 "
+                              },
+                              {
+                                        "name": "3.37 BILL NO. 4.09 – ELECTRICAL INSTALLATIONS    ",
+                                        "price": " 482,339.00 "
+                              },
+                              {
+                                        "name": "3.38 BILL NO. 4.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 119,797.00 "
+                              },
+                              {
+                                        "name": "3.39 BILL NO. 4.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 507,122.00 "
+                              },
+                              {
+                                        "name": "3.40 BILL NO. 4.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 111,442.00 "
+                              },
+                              {
+                                        "name": "3.41 BILL NO. 5 - JUMA'A MOSQUE",
+                                        "price": " 6,820,548.50 "
+                              },
+                              {
+                                        "name": "3.42 BILL NO. 5.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 136,463.00 "
+                              },
+                              {
+                                        "name": "3.43 BILL NO. 5.02 – CONCRETE WORKS             ",
+                                        "price": " 2,065,276.50 "
+                              },
+                              {
+                                        "name": "3.44 BILL NO. 5.03 – BLOCK WORKS             ",
+                                        "price": " 286,325.00 "
+                              },
+                              {
+                                        "name": "3.45 BILL NO. 5.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 316,639.00 "
+                              },
+                              {
+                                        "name": "3.46 BILL NO. 5.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 147,815.00 "
+                              },
+                              {
+                                        "name": "3.47 BILL NO. 5.06 – WOODEN WORKS                                             ",
+                                        "price": " 115,894.00 "
+                              },
+                              {
+                                        "name": "3.48 BILL NO. 5.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 1,056,288.00 "
+                              },
+                              {
+                                        "name": "3.49 BILL NO. 5.08 – KITCHEN CABINETS AND WARDROBES   ",
+                                        "price": " 20,215.00 "
+                              },
+                              {
+                                        "name": "3.50 BILL NO. 5.09 – CONVEYING SYSTEMS",
+                                        "price": " 215,930.00 "
+                              },
+                              {
+                                        "name": "3.51 BILL NO. 5.10 – ELECTRICAL INSTALLATION",
+                                        "price": " 1,073,556.00 "
+                              },
+                              {
+                                        "name": "3.52 BILL NO. 5.11 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 326,617.00 "
+                              },
+                              {
+                                        "name": "3.53 BILL NO. 5.12 – AIR CONDITIONING WORKS         ",
+                                        "price": " 945,201.00 "
+                              },
+                              {
+                                        "name": "3.54 BILL NO. 5.13 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 114,329.00 "
+                              },
+                              {
+                                        "name": "3.55 BILL NO. 6 - LOCAL MOSQUE",
+                                        "price": " 5,093,419.00 "
+                              },
+                              {
+                                        "name": "3.56 BILL NO. 6.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 95,351.00 "
+                              },
+                              {
+                                        "name": "3.57 BILL NO. 6.02 – CONCRETE WORKS             ",
+                                        "price": " 1,736,208.00 "
+                              },
+                              {
+                                        "name": "3.58 BILL NO. 6.03 – BLOCK WORKS             ",
+                                        "price": " 132,930.00 "
+                              },
+                              {
+                                        "name": "3.59 BILL NO. 6.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 234,615.00 "
+                              },
+                              {
+                                        "name": "3.60 BILL NO. 6.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 84,860.00 "
+                              },
+                              {
+                                        "name": "3.61 BILL NO. 6.06 – WOODEN WORKS                                             ",
+                                        "price": " 97,611.00 "
+                              },
+                              {
+                                        "name": "3.62 BILL NO. 6.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 808,895.00 "
+                              },
+                              {
+                                        "name": "3.63 BILL NO. 6.08 – KITCHEN CABINETS    ",
+                                        "price": " 18,734.00 "
+                              },
+                              {
+                                        "name": "3.64 BILL NO. 6.09 – ELECTRICAL INSTALLATION",
+                                        "price": " 747,257.00 "
+                              },
+                              {
+                                        "name": "3.65 BILL NO. 6.10 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 259,357.00 "
+                              },
+                              {
+                                        "name": "3.66 BILL NO. 6.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 784,841.00 "
+                              },
+                              {
+                                        "name": "3.67 BILL NO. 6.12 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 92,760.00 "
+                              },
+                              {
+                                        "name": "3.68 BILL NO. 7 - VILLAS - 204 Nos",
+                                        "price": " 368,633,662.00 "
+                              },
+                              {
+                                        "name": "3.69 BILL No. 7.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 5,224,644.00 "
+                              },
+                              {
+                                        "name": "3.70 BILL NO. 7.02 – CONCRETE WORKS              ",
+                                        "price": " 144,554,380.00 "
+                              },
+                              {
+                                        "name": "3.71 BILL NO. 7.03 – BLOCK WORKS             ",
+                                        "price": " 419,505.00 "
+                              },
+                              {
+                                        "name": "3.72 BILL NO. 7.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 14,653,254.00 "
+                              },
+                              {
+                                        "name": "3.73 BILL NO. 7.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 14,116,596.00 "
+                              },
+                              {
+                                        "name": "3.74 BILL NO. 7.06 – WOODEN WORKS                                             ",
+                                        "price": " 10,715,916.00 "
+                              },
+                              {
+                                        "name": "3.75 BILL NO. 7.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 35,366,676.00 "
+                              },
+                              {
+                                        "name": "3.76 BILL NO. 7.08 – KITCHEN CABINETS    ",
+                                        "price": " 6,154,185.00 "
+                              },
+                              {
+                                        "name": "3.77 BILL NO. 7.09 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 37,113,516.00 "
+                              },
+                              {
+                                        "name": "3.78 BILL NO. 7.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 38,394,636.00 "
+                              },
+                              {
+                                        "name": "3.79 BILL NO. 7.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 31,180,788.00 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 30,739,566.00 "
+                              },
+                              {
+                                        "name": "3.81 MUSANADA IT REQUIREMENTS",
+                                        "price": " 1,340,092.88 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 30,739,566.00 "
+                              }
+                    ]
+          },
+          {
+                    "Name": "Nael General Contracting Est ",
+                    "Data": []
+          },
+          {
+                    "Name": "Nael General Contracting Est ",
+                    "Data": [
+                              {
+                                        "name": "3 Commercial Envelope",
+                                        "price": " 567,000,000.00 "
+                              },
+                              {
+                                        "name": "3 Commercial Envelope",
+                                        "price": " 567,000,000.00 "
+                              },
+                              {
+                                        "name": " 3.1 BILL No. 1 - PRELIMINARIES / GENERAL REQUIREMENTS ",
+                                        "price": " 20,001,331.60 "
+                              },
+                              {
+                                        "name": " 3.1 BILL No. 1 - PRELIMINARIES / GENERAL REQUIREMENTS ",
+                                        "price": " 20,001,331.60 "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 2 - INFRASTRUCTURE WORKS: ",
+                                        "price": " 155,858,941.00 "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 2 - INFRASTRUCTURE WORKS: ",
+                                        "price": " 155,858,941.00 "
+                              },
+                              {
+                                        "name": "3.3 Bill No. 2.01 - GROUND INVESTIGATION ",
+                                        "price": " 201,050.00 "
+                              },
+                              {
+                                        "name": "3.3 Bill No. 2.01 - GROUND INVESTIGATION ",
+                                        "price": " 201,050.00 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 2.02 - DEMOLITION AND SITE CLEARANCE ",
+                                        "price": " 268,000.00 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 2.02 - DEMOLITION AND SITE CLEARANCE ",
+                                        "price": " 268,000.00 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 2.03 - EARTHWORKS ",
+                                        "price": " 9,411,105.00 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 2.03 - EARTHWORKS ",
+                                        "price": " 9,411,105.00 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 2.04 - ROADS AND PAVINGS ",
+                                        "price": " 16,090,360.00 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 2.04 - ROADS AND PAVINGS ",
+                                        "price": " 16,090,360.00 "
+                              },
+                              {
+                                        "name": "3.7 Bill No. 2.05 - STREET LIGHTING WORKS ",
+                                        "price": " 3,437,970.00 "
+                              },
+                              {
+                                        "name": "3.7 Bill No. 2.05 - STREET LIGHTING WORKS ",
+                                        "price": " 3,437,970.00 "
+                              },
+                              {
+                                        "name": "3.8 Bill No. 2.06 - STORM WATER DRAINAGE ",
+                                        "price": " 15,180,395.00 "
+                              },
+                              {
+                                        "name": "3.8 Bill No. 2.06 - STORM WATER DRAINAGE ",
+                                        "price": " 15,180,395.00 "
+                              },
+                              {
+                                        "name": "3.9 BLL NO. 2.07 - GRAVITY SEWER WORKS ",
+                                        "price": " 25,081,270.00 "
+                              },
+                              {
+                                        "name": "3.9 BLL NO. 2.07 - GRAVITY SEWER WORKS ",
+                                        "price": " 25,081,270.00 "
+                              },
+                              {
+                                        "name": "3.10 BLL NO. 2.08 : IRRIGATION WORKS",
+                                        "price": " 858,600.00 "
+                              },
+                              {
+                                        "name": "3.10 BLL NO. 2.08 : IRRIGATION WORKS",
+                                        "price": " 858,600.00 "
+                              },
+                              {
+                                        "name": "3.11 Bill 2.09 - WATER WORKS ",
+                                        "price": " 11,837,630.00 "
+                              },
+                              {
+                                        "name": "3.11 Bill 2.09 - WATER WORKS ",
+                                        "price": " 11,837,630.00 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 2.10 - TELECOMMUNICATION DUCT AND OTHER ACCESSORIES",
+                                        "price": " 6,119,760.00 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 2.10 - TELECOMMUNICATION DUCT AND OTHER ACCESSORIES",
+                                        "price": " 6,119,760.00 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 2.11 - GAS LINE WORKS ",
+                                        "price": " 4,849,626.00 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 2.11 - GAS LINE WORKS ",
+                                        "price": " 4,849,626.00 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 2.12- LANDSCAPE WORKS ",
+                                        "price": " 21,460,675.00 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 2.12- LANDSCAPE WORKS ",
+                                        "price": " 21,460,675.00 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 2.13 - ELECTRICAL BOQ FOR LV NETWORK ",
+                                        "price": " 41,062,500.00 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 2.13 - ELECTRICAL BOQ FOR LV NETWORK ",
+                                        "price": " 41,062,500.00 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 3 - RETAIL SHOPS - 2 NOS",
+                                        "price": " 3,916,527.00 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 3 - RETAIL SHOPS - 2 NOS",
+                                        "price": " 3,916,527.00 "
+                              },
+                              {
+                                        "name": "3.17 BILL No. 3.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 79,730.00 "
+                              },
+                              {
+                                        "name": "3.17 BILL No. 3.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 79,730.00 "
+                              },
+                              {
+                                        "name": "3.18 BILL NO. 3.02 – CONCRETE WORKS              ",
+                                        "price": " 908,655.00 "
+                              },
+                              {
+                                        "name": "3.18 BILL NO. 3.02 – CONCRETE WORKS              ",
+                                        "price": " 908,655.00 "
+                              },
+                              {
+                                        "name": "3.19 BILL NO. 3.03 – BLOCK WORKS             ",
+                                        "price": " 393,317.00 "
+                              },
+                              {
+                                        "name": "3.19 BILL NO. 3.03 – BLOCK WORKS             ",
+                                        "price": " 393,317.00 "
+                              },
+                              {
+                                        "name": "3.20 BILL NO. 3.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 165,842.00 "
+                              },
+                              {
+                                        "name": "3.20 BILL NO. 3.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 165,842.00 "
+                              },
+                              {
+                                        "name": "3.21 BILL NO. 3.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 228,490.00 "
+                              },
+                              {
+                                        "name": "3.21 BILL NO. 3.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 228,490.00 "
+                              },
+                              {
+                                        "name": "3.22 BILL NO. 3.06 – WOODEN WORKS                                             ",
+                                        "price": " 53,020.00 "
+                              },
+                              {
+                                        "name": "3.22 BILL NO. 3.06 – WOODEN WORKS                                             ",
+                                        "price": " 53,020.00 "
+                              },
+                              {
+                                        "name": "3.23 BILL NO. 3.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 317,001.00 "
+                              },
+                              {
+                                        "name": "3.23 BILL NO. 3.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 317,001.00 "
+                              },
+                              {
+                                        "name": "3.24 BILL NO. 3.08 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 863,536.00 "
+                              },
+                              {
+                                        "name": "3.24 BILL NO. 3.08 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 863,536.00 "
+                              },
+                              {
+                                        "name": "3.25 BILL NO. 3.09 – SANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 356,092.00 "
+                              },
+                              {
+                                        "name": "3.25 BILL NO. 3.09 – SANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 356,092.00 "
+                              },
+                              {
+                                        "name": "3.26 BILL NO. 3.10 – AIR CONDITIONING WORKS         ",
+                                        "price": " 452,600.00 "
+                              },
+                              {
+                                        "name": "3.26 BILL NO. 3.10 – AIR CONDITIONING WORKS         ",
+                                        "price": " 452,600.00 "
+                              },
+                              {
+                                        "name": "3.27 BILL NO. 3.11 – EXTERNAL WORKS  ",
+                                        "price": " 98,244.00 "
+                              },
+                              {
+                                        "name": "3.27 BILL NO. 3.11 – EXTERNAL WORKS  ",
+                                        "price": " 98,244.00 "
+                              },
+                              {
+                                        "name": "3.28 BILL NO. 4 - COMMUNITY CENTRE",
+                                        "price": " 3,450,821.00 "
+                              },
+                              {
+                                        "name": "3.28 BILL NO. 4 - COMMUNITY CENTRE",
+                                        "price": " 3,450,821.00 "
+                              },
+                              {
+                                        "name": "3.29 BILL No. 4.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 53,395.00 "
+                              },
+                              {
+                                        "name": "3.29 BILL No. 4.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 53,395.00 "
+                              },
+                              {
+                                        "name": "3.30 BILL NO. 4.02 – CONCRETE WORKS              ",
+                                        "price": " 607,979.00 "
+                              },
+                              {
+                                        "name": "3.30 BILL NO. 4.02 – CONCRETE WORKS              ",
+                                        "price": " 607,979.00 "
+                              },
+                              {
+                                        "name": "3.31 BILL NO. 4.03 – BLOCK WORKS             ",
+                                        "price": " 138,175.00 "
+                              },
+                              {
+                                        "name": "3.31 BILL NO. 4.03 – BLOCK WORKS             ",
+                                        "price": " 138,175.00 "
+                              },
+                              {
+                                        "name": "3.32 BILL NO. 4.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 93,027.00 "
+                              },
+                              {
+                                        "name": "3.32 BILL NO. 4.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 93,027.00 "
+                              },
+                              {
+                                        "name": "3.33 BILL NO. 4.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 297,740.00 "
+                              },
+                              {
+                                        "name": "3.33 BILL NO. 4.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 297,740.00 "
+                              },
+                              {
+                                        "name": "3.34 BILL NO. 4.06 – WOODEN WORKS                                             ",
+                                        "price": " 66,795.00 "
+                              },
+                              {
+                                        "name": "3.34 BILL NO. 4.06 – WOODEN WORKS                                             ",
+                                        "price": " 66,795.00 "
+                              },
+                              {
+                                        "name": "3.35 BILL NO. 4.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 379,257.00 "
+                              },
+                              {
+                                        "name": "3.35 BILL NO. 4.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 379,257.00 "
+                              },
+                              {
+                                        "name": "3.36 BILL NO. 4.08 – KITCHEN CABINETS    ",
+                                        "price": " 21,600.00 "
+                              },
+                              {
+                                        "name": "3.36 BILL NO. 4.08 – KITCHEN CABINETS    ",
+                                        "price": " 21,600.00 "
+                              },
+                              {
+                                        "name": "3.37 BILL NO. 4.09 – ELECTRICAL INSTALLATIONS    ",
+                                        "price": " 507,562.00 "
+                              },
+                              {
+                                        "name": "3.37 BILL NO. 4.09 – ELECTRICAL INSTALLATIONS    ",
+                                        "price": " 507,562.00 "
+                              },
+                              {
+                                        "name": "3.38 BILL NO. 4.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 243,301.00 "
+                              },
+                              {
+                                        "name": "3.38 BILL NO. 4.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 243,301.00 "
+                              },
+                              {
+                                        "name": "3.39 BILL NO. 4.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 721,070.00 "
+                              },
+                              {
+                                        "name": "3.39 BILL NO. 4.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 721,070.00 "
+                              },
+                              {
+                                        "name": "3.40 BILL NO. 4.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 320,920.00 "
+                              },
+                              {
+                                        "name": "3.40 BILL NO. 4.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 320,920.00 "
+                              },
+                              {
+                                        "name": "3.41 BILL NO. 5 - JUMA'A MOSQUE",
+                                        "price": " 8,434,049.00 "
+                              },
+                              {
+                                        "name": "3.41 BILL NO. 5 - JUMA'A MOSQUE",
+                                        "price": " 8,434,049.00 "
+                              },
+                              {
+                                        "name": "3.42 BILL NO. 5.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 142,095.00 "
+                              },
+                              {
+                                        "name": "3.42 BILL NO. 5.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 142,095.00 "
+                              },
+                              {
+                                        "name": "3.43 BILL NO. 5.02 – CONCRETE WORKS             ",
+                                        "price": " 1,991,306.00 "
+                              },
+                              {
+                                        "name": "3.43 BILL NO. 5.02 – CONCRETE WORKS             ",
+                                        "price": " 1,991,306.00 "
+                              },
+                              {
+                                        "name": "3.44 BILL NO. 5.03 – BLOCK WORKS             ",
+                                        "price": " 389,058.00 "
+                              },
+                              {
+                                        "name": "3.44 BILL NO. 5.03 – BLOCK WORKS             ",
+                                        "price": " 389,058.00 "
+                              },
+                              {
+                                        "name": "3.45 BILL NO. 5.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 159,395.00 "
+                              },
+                              {
+                                        "name": "3.45 BILL NO. 5.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 159,395.00 "
+                              },
+                              {
+                                        "name": "3.46 BILL NO. 5.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 281,275.00 "
+                              },
+                              {
+                                        "name": "3.46 BILL NO. 5.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 281,275.00 "
+                              },
+                              {
+                                        "name": "3.47 BILL NO. 5.06 – WOODEN WORKS                                             ",
+                                        "price": " 221,430.00 "
+                              },
+                              {
+                                        "name": "3.47 BILL NO. 5.06 – WOODEN WORKS                                             ",
+                                        "price": " 221,430.00 "
+                              },
+                              {
+                                        "name": "3.48 BILL NO. 5.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 1,197,135.00 "
+                              },
+                              {
+                                        "name": "3.48 BILL NO. 5.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 1,197,135.00 "
+                              },
+                              {
+                                        "name": "3.49 BILL NO. 5.08 – KITCHEN CABINETS AND WARDROBES   ",
+                                        "price": " 27,100.00 "
+                              },
+                              {
+                                        "name": "3.49 BILL NO. 5.08 – KITCHEN CABINETS AND WARDROBES   ",
+                                        "price": " 27,100.00 "
+                              },
+                              {
+                                        "name": "3.50 BILL NO. 5.09 – CONVEYING SYSTEMS",
+                                        "price": " 300,000.00 "
+                              },
+                              {
+                                        "name": "3.50 BILL NO. 5.09 – CONVEYING SYSTEMS",
+                                        "price": " 300,000.00 "
+                              },
+                              {
+                                        "name": "3.51 BILL NO. 5.10 – ELECTRICAL INSTALLATION",
+                                        "price": " 1,515,163.00 "
+                              },
+                              {
+                                        "name": "3.51 BILL NO. 5.10 – ELECTRICAL INSTALLATION",
+                                        "price": " 1,515,163.00 "
+                              },
+                              {
+                                        "name": "3.52 BILL NO. 5.11 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 621,007.00 "
+                              },
+                              {
+                                        "name": "3.52 BILL NO. 5.11 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 621,007.00 "
+                              },
+                              {
+                                        "name": "3.53 BILL NO. 5.12 – AIR CONDITIONING WORKS         ",
+                                        "price": " 1,363,610.00 "
+                              },
+                              {
+                                        "name": "3.53 BILL NO. 5.12 – AIR CONDITIONING WORKS         ",
+                                        "price": " 1,363,610.00 "
+                              },
+                              {
+                                        "name": "3.54 BILL NO. 5.13 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 225,475.00 "
+                              },
+                              {
+                                        "name": "3.54 BILL NO. 5.13 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 225,475.00 "
+                              },
+                              {
+                                        "name": "3.55 BILL NO. 6 - LOCAL MOSQUE",
+                                        "price": " 5,926,491.00 "
+                              },
+                              {
+                                        "name": "3.55 BILL NO. 6 - LOCAL MOSQUE",
+                                        "price": " 5,926,491.00 "
+                              },
+                              {
+                                        "name": "3.56 BILL NO. 6.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 98,875.00 "
+                              },
+                              {
+                                        "name": "3.56 BILL NO. 6.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 98,875.00 "
+                              },
+                              {
+                                        "name": "3.57 BILL NO. 6.02 – CONCRETE WORKS             ",
+                                        "price": " 1,500,354.00 "
+                              },
+                              {
+                                        "name": "3.57 BILL NO. 6.02 – CONCRETE WORKS             ",
+                                        "price": " 1,500,354.00 "
+                              },
+                              {
+                                        "name": "3.58 BILL NO. 6.03 – BLOCK WORKS             ",
+                                        "price": " 190,170.00 "
+                              },
+                              {
+                                        "name": "3.58 BILL NO. 6.03 – BLOCK WORKS             ",
+                                        "price": " 190,170.00 "
+                              },
+                              {
+                                        "name": "3.59 BILL NO. 6.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 114,205.00 "
+                              },
+                              {
+                                        "name": "3.59 BILL NO. 6.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 114,205.00 "
+                              },
+                              {
+                                        "name": "3.60 BILL NO. 6.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 192,500.00 "
+                              },
+                              {
+                                        "name": "3.60 BILL NO. 6.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 192,500.00 "
+                              },
+                              {
+                                        "name": "3.61 BILL NO. 6.06 – WOODEN WORKS                                             ",
+                                        "price": " 172,395.00 "
+                              },
+                              {
+                                        "name": "3.61 BILL NO. 6.06 – WOODEN WORKS                                             ",
+                                        "price": " 172,395.00 "
+                              },
+                              {
+                                        "name": "3.62 BILL NO. 6.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 897,590.00 "
+                              },
+                              {
+                                        "name": "3.62 BILL NO. 6.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 897,590.00 "
+                              },
+                              {
+                                        "name": "3.63 BILL NO. 6.08 – KITCHEN CABINETS    ",
+                                        "price": " 13,550.00 "
+                              },
+                              {
+                                        "name": "3.63 BILL NO. 6.08 – KITCHEN CABINETS    ",
+                                        "price": " 13,550.00 "
+                              },
+                              {
+                                        "name": "3.64 BILL NO. 6.09 – ELECTRICAL INSTALLATION",
+                                        "price": " 1,145,995.00 "
+                              },
+                              {
+                                        "name": "3.64 BILL NO. 6.09 – ELECTRICAL INSTALLATION",
+                                        "price": " 1,145,995.00 "
+                              },
+                              {
+                                        "name": "3.65 BILL NO. 6.10 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 503,567.00 "
+                              },
+                              {
+                                        "name": "3.65 BILL NO. 6.10 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 503,567.00 "
+                              },
+                              {
+                                        "name": "3.66 BILL NO. 6.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 934,890.00 "
+                              },
+                              {
+                                        "name": "3.66 BILL NO. 6.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 934,890.00 "
+                              },
+                              {
+                                        "name": "3.67 BILL NO. 6.12 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 162,400.00 "
+                              },
+                              {
+                                        "name": "3.67 BILL NO. 6.12 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 162,400.00 "
+                              },
+                              {
+                                        "name": "3.68 BILL NO. 7 - VILLAS - 204 Nos",
+                                        "price": " 368,355,557.00 "
+                              },
+                              {
+                                        "name": "3.68 BILL NO. 7 - VILLAS - 204 Nos",
+                                        "price": " 368,355,557.00 "
+                              },
+                              {
+                                        "name": "3.69 BILL No. 7.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 4,850,100.00 "
+                              },
+                              {
+                                        "name": "3.69 BILL No. 7.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 4,850,100.00 "
+                              },
+                              {
+                                        "name": "3.70 BILL NO. 7.02 – CONCRETE WORKS              ",
+                                        "price": " 122,034,818.00 "
+                              },
+                              {
+                                        "name": "3.70 BILL NO. 7.02 – CONCRETE WORKS              ",
+                                        "price": " 122,034,818.00 "
+                              },
+                              {
+                                        "name": "3.71 BILL NO. 7.03 – BLOCK WORKS             ",
+                                        "price": " 453,297.00 "
+                              },
+                              {
+                                        "name": "3.71 BILL NO. 7.03 – BLOCK WORKS             ",
+                                        "price": " 453,297.00 "
+                              },
+                              {
+                                        "name": "3.72 BILL NO. 7.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 19,243,962.00 "
+                              },
+                              {
+                                        "name": "3.72 BILL NO. 7.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 19,243,962.00 "
+                              },
+                              {
+                                        "name": "3.73 BILL NO. 7.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 22,907,160.00 "
+                              },
+                              {
+                                        "name": "3.73 BILL NO. 7.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 22,907,160.00 "
+                              },
+                              {
+                                        "name": "3.74 BILL NO. 7.06 – WOODEN WORKS                                             ",
+                                        "price": " 12,628,620.00 "
+                              },
+                              {
+                                        "name": "3.74 BILL NO. 7.06 – WOODEN WORKS                                             ",
+                                        "price": " 12,628,620.00 "
+                              },
+                              {
+                                        "name": "3.75 BILL NO. 7.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 31,760,570.00 "
+                              },
+                              {
+                                        "name": "3.75 BILL NO. 7.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 31,760,570.00 "
+                              },
+                              {
+                                        "name": "3.76 BILL NO. 7.08 – KITCHEN CABINETS    ",
+                                        "price": " 4,694,040.00 "
+                              },
+                              {
+                                        "name": "3.76 BILL NO. 7.08 – KITCHEN CABINETS    ",
+                                        "price": " 4,694,040.00 "
+                              },
+                              {
+                                        "name": "3.77 BILL NO. 7.09 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 38,745,164.00 "
+                              },
+                              {
+                                        "name": "3.77 BILL NO. 7.09 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 38,745,164.00 "
+                              },
+                              {
+                                        "name": "3.78 BILL NO. 7.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 37,086,352.00 "
+                              },
+                              {
+                                        "name": "3.78 BILL NO. 7.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 37,086,352.00 "
+                              },
+                              {
+                                        "name": "3.79 BILL NO. 7.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 34,475,944.00 "
+                              },
+                              {
+                                        "name": "3.79 BILL NO. 7.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 34,475,944.00 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 39,475,530.00 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 39,475,530.00 "
+                              },
+                              {
+                                        "name": "3.81 MUSANADA IT REQUIREMENTS",
+                                        "price": " 1,056,282.40 "
+                              },
+                              {
+                                        "name": "3.81 MUSANADA IT REQUIREMENTS",
+                                        "price": " 1,056,282.40 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 39,475,530.00 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 39,475,530.00 "
+                              }
+                    ]
+          },
+          {
+                    "Name": "Al Geemi & Partners Contracting Co. L.L.C.",
+                    "Data": [
+                              {
+                                        "name": "3 Commercial Envelope",
+                                        "price": " 570,880,000.00 "
+                              },
+                              {
+                                        "name": " 3.1 BILL No. 1 - PRELIMINARIES / GENERAL REQUIREMENTS ",
+                                        "price": " 33,045,980.00 "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 2 - INFRASTRUCTURE WORKS: ",
+                                        "price": " 117,228,680.00 "
+                              },
+                              {
+                                        "name": "3.3 Bill No. 2.01 - GROUND INVESTIGATION ",
+                                        "price": " 94,910.00 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 2.02 - DEMOLITION AND SITE CLEARANCE ",
+                                        "price": " 144,305.00 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 2.03 - EARTHWORKS ",
+                                        "price": " 4,646,514.00 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 2.04 - ROADS AND PAVINGS ",
+                                        "price": " 8,689,879.00 "
+                              },
+                              {
+                                        "name": "3.7 Bill No. 2.05 - STREET LIGHTING WORKS ",
+                                        "price": " 2,285,728.00 "
+                              },
+                              {
+                                        "name": "3.8 Bill No. 2.06 - STORM WATER DRAINAGE ",
+                                        "price": " 12,761,429.00 "
+                              },
+                              {
+                                        "name": "3.9 BLL NO. 2.07 - GRAVITY SEWER WORKS ",
+                                        "price": " 31,421,199.00 "
+                              },
+                              {
+                                        "name": "3.10 BLL NO. 2.08 : IRRIGATION WORKS",
+                                        "price": " 675,222.00 "
+                              },
+                              {
+                                        "name": "3.11 Bill 2.09 - WATER WORKS ",
+                                        "price": " 7,193,672.00 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 2.10 - TELECOMMUNICATION DUCT AND OTHER ACCESSORIES",
+                                        "price": " 3,434,431.00 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 2.11 - GAS LINE WORKS ",
+                                        "price": " 5,356,637.00 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 2.12- LANDSCAPE WORKS ",
+                                        "price": " 17,642,087.00 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 2.13 - ELECTRICAL BOQ FOR LV NETWORK ",
+                                        "price": " 22,882,667.00 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 3 - RETAIL SHOPS - 2 NOS",
+                                        "price": " 4,191,751.00 "
+                              },
+                              {
+                                        "name": "3.17 BILL No. 3.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 63,094.00 "
+                              },
+                              {
+                                        "name": "3.18 BILL NO. 3.02 – CONCRETE WORKS              ",
+                                        "price": " 1,150,559.00 "
+                              },
+                              {
+                                        "name": "3.19 BILL NO. 3.03 – BLOCK WORKS             ",
+                                        "price": " 596,343.00 "
+                              },
+                              {
+                                        "name": "3.20 BILL NO. 3.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 177,930.00 "
+                              },
+                              {
+                                        "name": "3.21 BILL NO. 3.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 327,792.00 "
+                              },
+                              {
+                                        "name": "3.22 BILL NO. 3.06 – WOODEN WORKS                                             ",
+                                        "price": " 45,472.00 "
+                              },
+                              {
+                                        "name": "3.23 BILL NO. 3.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 360,483.00 "
+                              },
+                              {
+                                        "name": "3.24 BILL NO. 3.08 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 591,741.00 "
+                              },
+                              {
+                                        "name": "3.25 BILL NO. 3.09 – SANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 336,300.00 "
+                              },
+                              {
+                                        "name": "3.26 BILL NO. 3.10 – AIR CONDITIONING WORKS         ",
+                                        "price": " 497,241.00 "
+                              },
+                              {
+                                        "name": "3.27 BILL NO. 3.11 – EXTERNAL WORKS  ",
+                                        "price": " 44,796.00 "
+                              },
+                              {
+                                        "name": "3.28 BILL NO. 4 - COMMUNITY CENTRE",
+                                        "price": " 2,836,859.00 "
+                              },
+                              {
+                                        "name": "3.29 BILL No. 4.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 42,251.00 "
+                              },
+                              {
+                                        "name": "3.30 BILL NO. 4.02 – CONCRETE WORKS              ",
+                                        "price": " 706,539.00 "
+                              },
+                              {
+                                        "name": "3.31 BILL NO. 4.03 – BLOCK WORKS             ",
+                                        "price": " 121,193.00 "
+                              },
+                              {
+                                        "name": "3.32 BILL NO. 4.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 102,155.00 "
+                              },
+                              {
+                                        "name": "3.33 BILL NO. 4.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 273,526.00 "
+                              },
+                              {
+                                        "name": "3.34 BILL NO. 4.06 – WOODEN WORKS                                             ",
+                                        "price": " 52,929.00 "
+                              },
+                              {
+                                        "name": "3.35 BILL NO. 4.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 402,349.00 "
+                              },
+                              {
+                                        "name": "3.36 BILL NO. 4.08 – KITCHEN CABINETS    ",
+                                        "price": " 29,162.00 "
+                              },
+                              {
+                                        "name": "3.37 BILL NO. 4.09 – ELECTRICAL INSTALLATIONS    ",
+                                        "price": " 357,055.00 "
+                              },
+                              {
+                                        "name": "3.38 BILL NO. 4.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 210,550.00 "
+                              },
+                              {
+                                        "name": "3.39 BILL NO. 4.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 343,184.00 "
+                              },
+                              {
+                                        "name": "3.40 BILL NO. 4.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 195,966.00 "
+                              },
+                              {
+                                        "name": "3.41 BILL NO. 5 - JUMA'A MOSQUE",
+                                        "price": " 7,211,239.00 "
+                              },
+                              {
+                                        "name": "3.42 BILL NO. 5.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 113,268.00 "
+                              },
+                              {
+                                        "name": "3.43 BILL NO. 5.02 – CONCRETE WORKS             ",
+                                        "price": " 2,180,687.00 "
+                              },
+                              {
+                                        "name": "3.44 BILL NO. 5.03 – BLOCK WORKS             ",
+                                        "price": " 337,520.00 "
+                              },
+                              {
+                                        "name": "3.45 BILL NO. 5.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 275,921.00 "
+                              },
+                              {
+                                        "name": "3.46 BILL NO. 5.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 327,172.00 "
+                              },
+                              {
+                                        "name": "3.47 BILL NO. 5.06 – WOODEN WORKS                                             ",
+                                        "price": " 185,291.00 "
+                              },
+                              {
+                                        "name": "3.48 BILL NO. 5.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 1,315,020.00 "
+                              },
+                              {
+                                        "name": "3.49 BILL NO. 5.08 – KITCHEN CABINETS AND WARDROBES   ",
+                                        "price": " 70,352.00 "
+                              },
+                              {
+                                        "name": "3.50 BILL NO. 5.09 – CONVEYING SYSTEMS",
+                                        "price": " 239,184.00 "
+                              },
+                              {
+                                        "name": "3.51 BILL NO. 5.10 – ELECTRICAL INSTALLATION",
+                                        "price": " 807,820.00 "
+                              },
+                              {
+                                        "name": "3.52 BILL NO. 5.11 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 536,725.00 "
+                              },
+                              {
+                                        "name": "3.53 BILL NO. 5.12 – AIR CONDITIONING WORKS         ",
+                                        "price": " 701,326.00 "
+                              },
+                              {
+                                        "name": "3.54 BILL NO. 5.13 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 120,953.00 "
+                              },
+                              {
+                                        "name": "3.55 BILL NO. 6 - LOCAL MOSQUE",
+                                        "price": " 5,440,926.00 "
+                              },
+                              {
+                                        "name": "3.56 BILL NO. 6.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 77,681.00 "
+                              },
+                              {
+                                        "name": "3.57 BILL NO. 6.02 – CONCRETE WORKS             ",
+                                        "price": " 1,821,766.00 "
+                              },
+                              {
+                                        "name": "3.58 BILL NO. 6.03 – BLOCK WORKS             ",
+                                        "price": " 158,554.00 "
+                              },
+                              {
+                                        "name": "3.59 BILL NO. 6.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 199,540.00 "
+                              },
+                              {
+                                        "name": "3.60 BILL NO. 6.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 192,851.00 "
+                              },
+                              {
+                                        "name": "3.61 BILL NO. 6.06 – WOODEN WORKS                                             ",
+                                        "price": " 136,674.00 "
+                              },
+                              {
+                                        "name": "3.62 BILL NO. 6.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 962,618.00 "
+                              },
+                              {
+                                        "name": "3.63 BILL NO. 6.08 – KITCHEN CABINETS    ",
+                                        "price": " 32,692.00 "
+                              },
+                              {
+                                        "name": "3.64 BILL NO. 6.09 – ELECTRICAL INSTALLATION",
+                                        "price": " 779,540.00 "
+                              },
+                              {
+                                        "name": "3.65 BILL NO. 6.10 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 491,201.00 "
+                              },
+                              {
+                                        "name": "3.66 BILL NO. 6.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 504,651.00 "
+                              },
+                              {
+                                        "name": "3.67 BILL NO. 6.12 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 83,158.00 "
+                              },
+                              {
+                                        "name": "3.68 BILL NO. 7 - VILLAS - 204 Nos",
+                                        "price": " 400,256,196.00 "
+                              },
+                              {
+                                        "name": "3.69 BILL No. 7.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 4,029,204.00 "
+                              },
+                              {
+                                        "name": "3.70 BILL NO. 7.02 – CONCRETE WORKS              ",
+                                        "price": " 139,349,568.00 "
+                              },
+                              {
+                                        "name": "3.71 BILL NO. 7.03 – BLOCK WORKS             ",
+                                        "price": " 504,484.00 "
+                              },
+                              {
+                                        "name": "3.72 BILL NO. 7.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 20,483,580.00 "
+                              },
+                              {
+                                        "name": "3.73 BILL NO. 7.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 24,231,936.00 "
+                              },
+                              {
+                                        "name": "3.74 BILL NO. 7.06 – WOODEN WORKS                                             ",
+                                        "price": " 16,624,980.00 "
+                              },
+                              {
+                                        "name": "3.75 BILL NO. 7.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 40,798,720.00 "
+                              },
+                              {
+                                        "name": "3.76 BILL NO. 7.08 – KITCHEN CABINETS    ",
+                                        "price": " 8,723,210.00 "
+                              },
+                              {
+                                        "name": "3.77 BILL NO. 7.09 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 36,717,652.00 "
+                              },
+                              {
+                                        "name": "3.78 BILL NO. 7.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 55,673,599.00 "
+                              },
+                              {
+                                        "name": "3.79 BILL NO. 7.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 14,671,857.00 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 38,447,406.00 "
+                              },
+                              {
+                                        "name": "3.81 MUSANADA IT REQUIREMENTS",
+                                        "price": " 668,369.00 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 38,447,406.00 "
+                              }
+                    ]
+          },
+          {
+                    "Name": "NAEL & BIN HARMAL HYDRO EXPORT ESTABLISHMENT - ABU DHABI BRANCH",
+                    "Data": [
+                              {
+                                        "name": "3 Commercial Envelope",
+                                        "price": " 589,775,000.00 "
+                              },
+                              {
+                                        "name": " 3.1 BILL No. 1 - PRELIMINARIES / GENERAL REQUIREMENTS ",
+                                        "price": " 35,932,528.00 "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 2 - INFRASTRUCTURE WORKS: ",
+                                        "price": " 135,374,407.15 "
+                              },
+                              {
+                                        "name": "3.3 Bill No. 2.01 - GROUND INVESTIGATION ",
+                                        "price": " 163,914.00 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 2.02 - DEMOLITION AND SITE CLEARANCE ",
+                                        "price": " 214,689.15 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 2.03 - EARTHWORKS ",
+                                        "price": " 11,702,548.00 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 2.04 - ROADS AND PAVINGS ",
+                                        "price": " 12,871,808.00 "
+                              },
+                              {
+                                        "name": "3.7 Bill No. 2.05 - STREET LIGHTING WORKS ",
+                                        "price": " 3,174,892.00 "
+                              },
+                              {
+                                        "name": "3.8 Bill No. 2.06 - STORM WATER DRAINAGE ",
+                                        "price": " 13,006,827.00 "
+                              },
+                              {
+                                        "name": "3.9 BLL NO. 2.07 - GRAVITY SEWER WORKS ",
+                                        "price": " 19,957,933.00 "
+                              },
+                              {
+                                        "name": "3.10 BLL NO. 2.08 : IRRIGATION WORKS",
+                                        "price": " 879,183.00 "
+                              },
+                              {
+                                        "name": "3.11 Bill 2.09 - WATER WORKS ",
+                                        "price": " 10,161,630.00 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 2.10 - TELECOMMUNICATION DUCT AND OTHER ACCESSORIES",
+                                        "price": " 6,295,411.00 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 2.11 - GAS LINE WORKS ",
+                                        "price": " 8,297,869.00 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 2.12- LANDSCAPE WORKS ",
+                                        "price": " 21,260,331.00 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 2.13 - ELECTRICAL BOQ FOR LV NETWORK ",
+                                        "price": " 27,387,372.00 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 3 - RETAIL SHOPS - 2 NOS",
+                                        "price": " 3,983,229.52 "
+                              },
+                              {
+                                        "name": "3.17 BILL No. 3.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.18 BILL NO. 3.02 – CONCRETE WORKS              ",
+                                        "price": " 966,442.00 "
+                              },
+                              {
+                                        "name": "3.19 BILL NO. 3.03 – BLOCK WORKS             ",
+                                        "price": " 486,252.00 "
+                              },
+                              {
+                                        "name": "3.20 BILL NO. 3.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 148,434.00 "
+                              },
+                              {
+                                        "name": "3.21 BILL NO. 3.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 285,218.00 "
+                              },
+                              {
+                                        "name": "3.22 BILL NO. 3.06 – WOODEN WORKS                                             ",
+                                        "price": " 49,080.00 "
+                              },
+                              {
+                                        "name": "3.23 BILL NO. 3.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 277,084.00 "
+                              },
+                              {
+                                        "name": "3.24 BILL NO. 3.08 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 725,604.80 "
+                              },
+                              {
+                                        "name": "3.25 BILL NO. 3.09 – SANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 316,590.00 "
+                              },
+                              {
+                                        "name": "3.26 BILL NO. 3.10 – AIR CONDITIONING WORKS         ",
+                                        "price": " 647,356.72 "
+                              },
+                              {
+                                        "name": "3.27 BILL NO. 3.11 – EXTERNAL WORKS  ",
+                                        "price": " 81,168.00 "
+                              },
+                              {
+                                        "name": "3.28 BILL NO. 4 - COMMUNITY CENTRE",
+                                        "price": " 3,349,786.00 "
+                              },
+                              {
+                                        "name": "3.29 BILL No. 4.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 45,610.00 "
+                              },
+                              {
+                                        "name": "3.30 BILL NO. 4.02 – CONCRETE WORKS              ",
+                                        "price": " 647,515.00 "
+                              },
+                              {
+                                        "name": "3.31 BILL NO. 4.03 – BLOCK WORKS             ",
+                                        "price": " 135,595.00 "
+                              },
+                              {
+                                        "name": "3.32 BILL NO. 4.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 76,577.00 "
+                              },
+                              {
+                                        "name": "3.33 BILL NO. 4.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 260,144.00 "
+                              },
+                              {
+                                        "name": "3.34 BILL NO. 4.06 – WOODEN WORKS                                             ",
+                                        "price": " 63,010.00 "
+                              },
+                              {
+                                        "name": "3.35 BILL NO. 4.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 355,291.00 "
+                              },
+                              {
+                                        "name": "3.36 BILL NO. 4.08 – KITCHEN CABINETS    ",
+                                        "price": " 12,350.00 "
+                              },
+                              {
+                                        "name": "3.37 BILL NO. 4.09 – ELECTRICAL INSTALLATIONS    ",
+                                        "price": " 624,990.00 "
+                              },
+                              {
+                                        "name": "3.38 BILL NO. 4.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 200,014.00 "
+                              },
+                              {
+                                        "name": "3.39 BILL NO. 4.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 439,983.00 "
+                              },
+                              {
+                                        "name": "3.40 BILL NO. 4.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 488,707.00 "
+                              },
+                              {
+                                        "name": "3.41 BILL NO. 5 - JUMA'A MOSQUE",
+                                        "price": " 8,347,957.20 "
+                              },
+                              {
+                                        "name": "3.42 BILL NO. 5.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 103,561.00 "
+                              },
+                              {
+                                        "name": "3.43 BILL NO. 5.02 – CONCRETE WORKS             ",
+                                        "price": " 2,122,914.00 "
+                              },
+                              {
+                                        "name": "3.44 BILL NO. 5.03 – BLOCK WORKS             ",
+                                        "price": " 352,999.00 "
+                              },
+                              {
+                                        "name": "3.45 BILL NO. 5.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 212,320.00 "
+                              },
+                              {
+                                        "name": "3.46 BILL NO. 5.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 249,877.00 "
+                              },
+                              {
+                                        "name": "3.47 BILL NO. 5.06 – WOODEN WORKS                                             ",
+                                        "price": " 141,358.00 "
+                              },
+                              {
+                                        "name": "3.48 BILL NO. 5.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 1,114,534.20 "
+                              },
+                              {
+                                        "name": "3.49 BILL NO. 5.08 – KITCHEN CABINETS AND WARDROBES   ",
+                                        "price": " 13,520.00 "
+                              },
+                              {
+                                        "name": "3.50 BILL NO. 5.09 – CONVEYING SYSTEMS",
+                                        "price": " 312,000.00 "
+                              },
+                              {
+                                        "name": "3.51 BILL NO. 5.10 – ELECTRICAL INSTALLATION",
+                                        "price": " 1,321,524.00 "
+                              },
+                              {
+                                        "name": "3.52 BILL NO. 5.11 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 669,814.00 "
+                              },
+                              {
+                                        "name": "3.53 BILL NO. 5.12 – AIR CONDITIONING WORKS         ",
+                                        "price": " 1,552,816.00 "
+                              },
+                              {
+                                        "name": "3.54 BILL NO. 5.13 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 180,720.00 "
+                              },
+                              {
+                                        "name": "3.55 BILL NO. 6 - LOCAL MOSQUE",
+                                        "price": " 5,659,156.25 "
+                              },
+                              {
+                                        "name": "3.56 BILL NO. 6.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 76,130.00 "
+                              },
+                              {
+                                        "name": "3.57 BILL NO. 6.02 – CONCRETE WORKS             ",
+                                        "price": " 1,734,521.00 "
+                              },
+                              {
+                                        "name": "3.58 BILL NO. 6.03 – BLOCK WORKS             ",
+                                        "price": " 160,985.00 "
+                              },
+                              {
+                                        "name": "3.59 BILL NO. 6.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 151,670.00 "
+                              },
+                              {
+                                        "name": "3.60 BILL NO. 6.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 109,585.00 "
+                              },
+                              {
+                                        "name": "3.61 BILL NO. 6.06 – WOODEN WORKS                                             ",
+                                        "price": " 113,620.00 "
+                              },
+                              {
+                                        "name": "3.62 BILL NO. 6.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 822,728.25 "
+                              },
+                              {
+                                        "name": "3.63 BILL NO. 6.08 – KITCHEN CABINETS    ",
+                                        "price": " 14,250.00 "
+                              },
+                              {
+                                        "name": "3.64 BILL NO. 6.09 – ELECTRICAL INSTALLATION",
+                                        "price": " 1,084,218.00 "
+                              },
+                              {
+                                        "name": "3.65 BILL NO. 6.10 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 542,480.00 "
+                              },
+                              {
+                                        "name": "3.66 BILL NO. 6.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 727,769.00 "
+                              },
+                              {
+                                        "name": "3.67 BILL NO. 6.12 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 121,200.00 "
+                              },
+                              {
+                                        "name": "3.68 BILL NO. 7 - VILLAS - 204 Nos",
+                                        "price": " 396,390,813.00 "
+                              },
+                              {
+                                        "name": "3.69 BILL No. 7.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 4,817,460.00 "
+                              },
+                              {
+                                        "name": "3.70 BILL NO. 7.02 – CONCRETE WORKS              ",
+                                        "price": " 158,596,448.00 "
+                              },
+                              {
+                                        "name": "3.71 BILL NO. 7.03 – BLOCK WORKS             ",
+                                        "price": " 402,029.00 "
+                              },
+                              {
+                                        "name": "3.72 BILL NO. 7.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 17,938,488.00 "
+                              },
+                              {
+                                        "name": "3.73 BILL NO. 7.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 24,849,546.00 "
+                              },
+                              {
+                                        "name": "3.74 BILL NO. 7.06 – WOODEN WORKS                                             ",
+                                        "price": " 11,938,080.00 "
+                              },
+                              {
+                                        "name": "3.75 BILL NO. 7.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 31,118,709.00 "
+                              },
+                              {
+                                        "name": "3.76 BILL NO. 7.08 – KITCHEN CABINETS    ",
+                                        "price": " 5,621,720.00 "
+                              },
+                              {
+                                        "name": "3.77 BILL NO. 7.09 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 35,917,328.00 "
+                              },
+                              {
+                                        "name": "3.78 BILL NO. 7.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 35,557,537.00 "
+                              },
+                              {
+                                        "name": "3.79 BILL NO. 7.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 27,994,104.00 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 41,639,364.00 "
+                              },
+                              {
+                                        "name": "3.81 MUSANADA IT REQUIREMENTS",
+                                        "price": " 737,122.88 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 41,639,364.00 "
+                              }
+                    ]
+          },
+          {
+                    "Name": "Mohammed Abdulmohsin Al-Kharafi & Sons, LLC",
+                    "Data": [
+                              {
+                                        "name": "3 Commercial Envelope",
+                                        "price": " 632,300,000.00 "
+                              },
+                              {
+                                        "name": " 3.1 BILL No. 1 - PRELIMINARIES / GENERAL REQUIREMENTS ",
+                                        "price": " 44,409,330.45 "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 2 - INFRASTRUCTURE WORKS: ",
+                                        "price": " 134,446,752.71 "
+                              },
+                              {
+                                        "name": "3.3 Bill No. 2.01 - GROUND INVESTIGATION ",
+                                        "price": " 123,822.34 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 2.02 - DEMOLITION AND SITE CLEARANCE ",
+                                        "price": " 300,672.07 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 2.03 - EARTHWORKS ",
+                                        "price": " 6,246,994.95 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 2.04 - ROADS AND PAVINGS ",
+                                        "price": " 10,864,183.17 "
+                              },
+                              {
+                                        "name": "3.7 Bill No. 2.05 - STREET LIGHTING WORKS ",
+                                        "price": " 3,046,056.72 "
+                              },
+                              {
+                                        "name": "3.8 Bill No. 2.06 - STORM WATER DRAINAGE ",
+                                        "price": " 11,602,025.38 "
+                              },
+                              {
+                                        "name": "3.9 BLL NO. 2.07 - GRAVITY SEWER WORKS ",
+                                        "price": " 30,367,773.35 "
+                              },
+                              {
+                                        "name": "3.10 BLL NO. 2.08 : IRRIGATION WORKS",
+                                        "price": " 537,668.74 "
+                              },
+                              {
+                                        "name": "3.11 Bill 2.09 - WATER WORKS ",
+                                        "price": " 12,962,958.98 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 2.10 - TELECOMMUNICATION DUCT AND OTHER ACCESSORIES",
+                                        "price": " 3,406,485.99 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 2.11 - GAS LINE WORKS ",
+                                        "price": " 7,191,120.64 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 2.12- LANDSCAPE WORKS ",
+                                        "price": " 21,612,529.66 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 2.13 - ELECTRICAL BOQ FOR LV NETWORK ",
+                                        "price": " 26,184,460.72 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 3 - RETAIL SHOPS - 2 NOS",
+                                        "price": " 3,604,641.03 "
+                              },
+                              {
+                                        "name": "3.17 BILL No. 3.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 60,127.64 "
+                              },
+                              {
+                                        "name": "3.18 BILL NO. 3.02 – CONCRETE WORKS              ",
+                                        "price": " 1,087,434.10 "
+                              },
+                              {
+                                        "name": "3.19 BILL NO. 3.03 – BLOCK WORKS             ",
+                                        "price": " 486,944.42 "
+                              },
+                              {
+                                        "name": "3.20 BILL NO. 3.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 231,975.19 "
+                              },
+                              {
+                                        "name": "3.21 BILL NO. 3.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 223,970.90 "
+                              },
+                              {
+                                        "name": "3.22 BILL NO. 3.06 – WOODEN WORKS                                             ",
+                                        "price": " 55,581.52 "
+                              },
+                              {
+                                        "name": "3.23 BILL NO. 3.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 428,117.25 "
+                              },
+                              {
+                                        "name": "3.24 BILL NO. 3.08 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 448,730.69 "
+                              },
+                              {
+                                        "name": "3.25 BILL NO. 3.09 – SANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 318,794.17 "
+                              },
+                              {
+                                        "name": "3.26 BILL NO. 3.10 – AIR CONDITIONING WORKS         ",
+                                        "price": " 200,449.75 "
+                              },
+                              {
+                                        "name": "3.27 BILL NO. 3.11 – EXTERNAL WORKS  ",
+                                        "price": " 62,515.40 "
+                              },
+                              {
+                                        "name": "3.28 BILL NO. 4 - COMMUNITY CENTRE",
+                                        "price": " 2,866,098.60 "
+                              },
+                              {
+                                        "name": "3.29 BILL No. 4.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 41,166.70 "
+                              },
+                              {
+                                        "name": "3.30 BILL NO. 4.02 – CONCRETE WORKS              ",
+                                        "price": " 622,560.53 "
+                              },
+                              {
+                                        "name": "3.31 BILL NO. 4.03 – BLOCK WORKS             ",
+                                        "price": " 151,622.02 "
+                              },
+                              {
+                                        "name": "3.32 BILL NO. 4.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 129,127.80 "
+                              },
+                              {
+                                        "name": "3.33 BILL NO. 4.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 223,979.20 "
+                              },
+                              {
+                                        "name": "3.34 BILL NO. 4.06 – WOODEN WORKS                                             ",
+                                        "price": " 56,539.06 "
+                              },
+                              {
+                                        "name": "3.35 BILL NO. 4.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 508,789.68 "
+                              },
+                              {
+                                        "name": "3.36 BILL NO. 4.08 – KITCHEN CABINETS    ",
+                                        "price": " 18,098.56 "
+                              },
+                              {
+                                        "name": "3.37 BILL NO. 4.09 – ELECTRICAL INSTALLATIONS    ",
+                                        "price": " 248,964.35 "
+                              },
+                              {
+                                        "name": "3.38 BILL NO. 4.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 216,669.62 "
+                              },
+                              {
+                                        "name": "3.39 BILL NO. 4.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 378,975.23 "
+                              },
+                              {
+                                        "name": "3.40 BILL NO. 4.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 269,605.85 "
+                              },
+                              {
+                                        "name": "3.41 BILL NO. 5 - JUMA'A MOSQUE",
+                                        "price": " 7,454,166.82 "
+                              },
+                              {
+                                        "name": "3.42 BILL NO. 5.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 103,997.54 "
+                              },
+                              {
+                                        "name": "3.43 BILL NO. 5.02 – CONCRETE WORKS             ",
+                                        "price": " 1,974,169.83 "
+                              },
+                              {
+                                        "name": "3.44 BILL NO. 5.03 – BLOCK WORKS             ",
+                                        "price": " 398,430.41 "
+                              },
+                              {
+                                        "name": "3.45 BILL NO. 5.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 345,533.40 "
+                              },
+                              {
+                                        "name": "3.46 BILL NO. 5.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 254,203.06 "
+                              },
+                              {
+                                        "name": "3.47 BILL NO. 5.06 – WOODEN WORKS                                             ",
+                                        "price": " 208,631.30 "
+                              },
+                              {
+                                        "name": "3.48 BILL NO. 5.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 1,643,685.20 "
+                              },
+                              {
+                                        "name": "3.49 BILL NO. 5.08 – KITCHEN CABINETS AND WARDROBES   ",
+                                        "price": " 55,523.80 "
+                              },
+                              {
+                                        "name": "3.50 BILL NO. 5.09 – CONVEYING SYSTEMS",
+                                        "price": " 264,497.54 "
+                              },
+                              {
+                                        "name": "3.51 BILL NO. 5.10 – ELECTRICAL INSTALLATION",
+                                        "price": " 752,481.86 "
+                              },
+                              {
+                                        "name": "3.52 BILL NO. 5.11 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 380,168.04 "
+                              },
+                              {
+                                        "name": "3.53 BILL NO. 5.12 – AIR CONDITIONING WORKS         ",
+                                        "price": " 895,523.51 "
+                              },
+                              {
+                                        "name": "3.54 BILL NO. 5.13 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 177,321.33 "
+                              },
+                              {
+                                        "name": "3.55 BILL NO. 6 - LOCAL MOSQUE",
+                                        "price": " 5,340,829.75 "
+                              },
+                              {
+                                        "name": "3.56 BILL NO. 6.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 72,499.40 "
+                              },
+                              {
+                                        "name": "3.57 BILL NO. 6.02 – CONCRETE WORKS             ",
+                                        "price": " 1,640,777.41 "
+                              },
+                              {
+                                        "name": "3.58 BILL NO. 6.03 – BLOCK WORKS             ",
+                                        "price": " 193,183.98 "
+                              },
+                              {
+                                        "name": "3.59 BILL NO. 6.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 248,219.65 "
+                              },
+                              {
+                                        "name": "3.60 BILL NO. 6.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 179,712.75 "
+                              },
+                              {
+                                        "name": "3.61 BILL NO. 6.06 – WOODEN WORKS                                             ",
+                                        "price": " 177,167.72 "
+                              },
+                              {
+                                        "name": "3.62 BILL NO. 6.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 1,241,688.06 "
+                              },
+                              {
+                                        "name": "3.63 BILL NO. 6.08 – KITCHEN CABINETS    ",
+                                        "price": " 53,216.23 "
+                              },
+                              {
+                                        "name": "3.64 BILL NO. 6.09 – ELECTRICAL INSTALLATION",
+                                        "price": " 507,244.17 "
+                              },
+                              {
+                                        "name": "3.65 BILL NO. 6.10 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 352,805.75 "
+                              },
+                              {
+                                        "name": "3.66 BILL NO. 6.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 547,798.10 "
+                              },
+                              {
+                                        "name": "3.67 BILL NO. 6.12 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 126,516.53 "
+                              },
+                              {
+                                        "name": "3.68 BILL NO. 7 - VILLAS - 204 Nos",
+                                        "price": " 433,399,625.21 "
+                              },
+                              {
+                                        "name": "3.69 BILL No. 7.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 4,105,791.72 "
+                              },
+                              {
+                                        "name": "3.70 BILL NO. 7.02 – CONCRETE WORKS              ",
+                                        "price": " 149,003,285.76 "
+                              },
+                              {
+                                        "name": "3.71 BILL NO. 7.03 – BLOCK WORKS             ",
+                                        "price": " 453,125.37 "
+                              },
+                              {
+                                        "name": "3.72 BILL NO. 7.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 21,849,945.38 "
+                              },
+                              {
+                                        "name": "3.73 BILL NO. 7.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 23,550,507.66 "
+                              },
+                              {
+                                        "name": "3.74 BILL NO. 7.06 – WOODEN WORKS                                             ",
+                                        "price": " 18,423,386.88 "
+                              },
+                              {
+                                        "name": "3.75 BILL NO. 7.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 50,630,210.15 "
+                              },
+                              {
+                                        "name": "3.76 BILL NO. 7.08 – KITCHEN CABINETS    ",
+                                        "price": " 7,905,723.04 "
+                              },
+                              {
+                                        "name": "3.77 BILL NO. 7.09 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 36,494,936.57 "
+                              },
+                              {
+                                        "name": "3.78 BILL NO. 7.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 33,500,988.51 "
+                              },
+                              {
+                                        "name": "3.79 BILL NO. 7.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 49,602,833.53 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 37,878,890.64 "
+                              },
+                              {
+                                        "name": "3.81 MUSANADA IT REQUIREMENTS",
+                                        "price": " 778,555.42 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 37,878,890.64 "
+                              }
+                    ]
+          },
+          {
+                    "Name": "Combined Group Contracting Emirates L.L.C",
+                    "Data": [
+                              {
+                                        "name": "3 Commercial Envelope",
+                                        "price": " 633,531,622.88 "
+                              },
+                              {
+                                        "name": " 3.1 BILL No. 1 - PRELIMINARIES / GENERAL REQUIREMENTS ",
+                                        "price": " 20,300,212.00 "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 2 - INFRASTRUCTURE WORKS: ",
+                                        "price": " 159,891,596.75 "
+                              },
+                              {
+                                        "name": "3.3 Bill No. 2.01 - GROUND INVESTIGATION ",
+                                        "price": " 222,690.00 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 2.02 - DEMOLITION AND SITE CLEARANCE ",
+                                        "price": " 145,646.75 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 2.03 - EARTHWORKS ",
+                                        "price": " 10,469,444.00 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 2.04 - ROADS AND PAVINGS ",
+                                        "price": " 14,270,222.00 "
+                              },
+                              {
+                                        "name": "3.7 Bill No. 2.05 - STREET LIGHTING WORKS ",
+                                        "price": " 3,083,123.00 "
+                              },
+                              {
+                                        "name": "3.8 Bill No. 2.06 - STORM WATER DRAINAGE ",
+                                        "price": " 22,352,691.00 "
+                              },
+                              {
+                                        "name": "3.9 BLL NO. 2.07 - GRAVITY SEWER WORKS ",
+                                        "price": " 31,775,234.00 "
+                              },
+                              {
+                                        "name": "3.10 BLL NO. 2.08 : IRRIGATION WORKS",
+                                        "price": " 819,196.00 "
+                              },
+                              {
+                                        "name": "3.11 Bill 2.09 - WATER WORKS ",
+                                        "price": " 11,086,643.00 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 2.10 - TELECOMMUNICATION DUCT AND OTHER ACCESSORIES",
+                                        "price": " 4,404,213.00 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 2.11 - GAS LINE WORKS ",
+                                        "price": " 6,690,705.00 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 2.12- LANDSCAPE WORKS ",
+                                        "price": " 23,215,119.00 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 2.13 - ELECTRICAL BOQ FOR LV NETWORK ",
+                                        "price": " 31,356,670.00 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 3 - RETAIL SHOPS - 2 NOS",
+                                        "price": " 4,205,543.00 "
+                              },
+                              {
+                                        "name": "3.17 BILL No. 3.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 60,370.00 "
+                              },
+                              {
+                                        "name": "3.18 BILL NO. 3.02 – CONCRETE WORKS              ",
+                                        "price": " 1,263,126.00 "
+                              },
+                              {
+                                        "name": "3.19 BILL NO. 3.03 – BLOCK WORKS             ",
+                                        "price": " 430,452.00 "
+                              },
+                              {
+                                        "name": "3.20 BILL NO. 3.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 247,357.00 "
+                              },
+                              {
+                                        "name": "3.21 BILL NO. 3.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 398,740.00 "
+                              },
+                              {
+                                        "name": "3.22 BILL NO. 3.06 – WOODEN WORKS                                             ",
+                                        "price": " 49,480.00 "
+                              },
+                              {
+                                        "name": "3.23 BILL NO. 3.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 514,348.00 "
+                              },
+                              {
+                                        "name": "3.24 BILL NO. 3.08 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 706,607.00 "
+                              },
+                              {
+                                        "name": "3.25 BILL NO. 3.09 – SANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 256,242.00 "
+                              },
+                              {
+                                        "name": "3.26 BILL NO. 3.10 – AIR CONDITIONING WORKS         ",
+                                        "price": " 199,197.00 "
+                              },
+                              {
+                                        "name": "3.27 BILL NO. 3.11 – EXTERNAL WORKS  ",
+                                        "price": " 79,624.00 "
+                              },
+                              {
+                                        "name": "3.28 BILL NO. 4 - COMMUNITY CENTRE",
+                                        "price": " 3,459,332.00 "
+                              },
+                              {
+                                        "name": "3.29 BILL No. 4.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 32,344.00 "
+                              },
+                              {
+                                        "name": "3.30 BILL NO. 4.02 – CONCRETE WORKS              ",
+                                        "price": " 786,788.00 "
+                              },
+                              {
+                                        "name": "3.31 BILL NO. 4.03 – BLOCK WORKS             ",
+                                        "price": " 143,365.00 "
+                              },
+                              {
+                                        "name": "3.32 BILL NO. 4.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 139,901.00 "
+                              },
+                              {
+                                        "name": "3.33 BILL NO. 4.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 305,838.00 "
+                              },
+                              {
+                                        "name": "3.34 BILL NO. 4.06 – WOODEN WORKS                                             ",
+                                        "price": " 67,065.00 "
+                              },
+                              {
+                                        "name": "3.35 BILL NO. 4.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 621,289.00 "
+                              },
+                              {
+                                        "name": "3.36 BILL NO. 4.08 – KITCHEN CABINETS    ",
+                                        "price": " 43,284.00 "
+                              },
+                              {
+                                        "name": "3.37 BILL NO. 4.09 – ELECTRICAL INSTALLATIONS    ",
+                                        "price": " 325,757.00 "
+                              },
+                              {
+                                        "name": "3.38 BILL NO. 4.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 172,850.00 "
+                              },
+                              {
+                                        "name": "3.39 BILL NO. 4.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 437,687.00 "
+                              },
+                              {
+                                        "name": "3.40 BILL NO. 4.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 383,164.00 "
+                              },
+                              {
+                                        "name": "3.41 BILL NO. 5 - JUMA'A MOSQUE",
+                                        "price": " 8,241,986.50 "
+                              },
+                              {
+                                        "name": "3.42 BILL NO. 5.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 97,813.00 "
+                              },
+                              {
+                                        "name": "3.43 BILL NO. 5.02 – CONCRETE WORKS             ",
+                                        "price": " 2,556,797.50 "
+                              },
+                              {
+                                        "name": "3.44 BILL NO. 5.03 – BLOCK WORKS             ",
+                                        "price": " 401,949.00 "
+                              },
+                              {
+                                        "name": "3.45 BILL NO. 5.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 408,460.00 "
+                              },
+                              {
+                                        "name": "3.46 BILL NO. 5.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 196,121.00 "
+                              },
+                              {
+                                        "name": "3.47 BILL NO. 5.06 – WOODEN WORKS                                             ",
+                                        "price": " 258,471.00 "
+                              },
+                              {
+                                        "name": "3.48 BILL NO. 5.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 1,714,919.00 "
+                              },
+                              {
+                                        "name": "3.49 BILL NO. 5.08 – KITCHEN CABINETS AND WARDROBES   ",
+                                        "price": " 37,490.00 "
+                              },
+                              {
+                                        "name": "3.50 BILL NO. 5.09 – CONVEYING SYSTEMS",
+                                        "price": " 507,240.00 "
+                              },
+                              {
+                                        "name": "3.51 BILL NO. 5.10 – ELECTRICAL INSTALLATION",
+                                        "price": " 734,722.00 "
+                              },
+                              {
+                                        "name": "3.52 BILL NO. 5.11 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 438,158.00 "
+                              },
+                              {
+                                        "name": "3.53 BILL NO. 5.12 – AIR CONDITIONING WORKS         ",
+                                        "price": " 709,114.00 "
+                              },
+                              {
+                                        "name": "3.54 BILL NO. 5.13 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 180,732.00 "
+                              },
+                              {
+                                        "name": "3.55 BILL NO. 6 - LOCAL MOSQUE",
+                                        "price": " 6,001,128.75 "
+                              },
+                              {
+                                        "name": "3.56 BILL NO. 6.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 71,444.00 "
+                              },
+                              {
+                                        "name": "3.57 BILL NO. 6.02 – CONCRETE WORKS             ",
+                                        "price": " 2,105,814.00 "
+                              },
+                              {
+                                        "name": "3.58 BILL NO. 6.03 – BLOCK WORKS             ",
+                                        "price": " 193,678.00 "
+                              },
+                              {
+                                        "name": "3.59 BILL NO. 6.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 223,030.00 "
+                              },
+                              {
+                                        "name": "3.60 BILL NO. 6.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 195,870.00 "
+                              },
+                              {
+                                        "name": "3.61 BILL NO. 6.06 – WOODEN WORKS                                             ",
+                                        "price": " 201,404.00 "
+                              },
+                              {
+                                        "name": "3.62 BILL NO. 6.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 1,284,094.75 "
+                              },
+                              {
+                                        "name": "3.63 BILL NO. 6.08 – KITCHEN CABINETS    ",
+                                        "price": " 19,943.00 "
+                              },
+                              {
+                                        "name": "3.64 BILL NO. 6.09 – ELECTRICAL INSTALLATION",
+                                        "price": " 631,100.00 "
+                              },
+                              {
+                                        "name": "3.65 BILL NO. 6.10 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 415,757.00 "
+                              },
+                              {
+                                        "name": "3.66 BILL NO. 6.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 536,637.00 "
+                              },
+                              {
+                                        "name": "3.67 BILL NO. 6.12 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 122,357.00 "
+                              },
+                              {
+                                        "name": "3.68 BILL NO. 7 - VILLAS - 204 Nos",
+                                        "price": " 430,636,130.00 "
+                              },
+                              {
+                                        "name": "3.69 BILL No. 7.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 4,318,680.00 "
+                              },
+                              {
+                                        "name": "3.70 BILL NO. 7.02 – CONCRETE WORKS              ",
+                                        "price": " 186,988,360.00 "
+                              },
+                              {
+                                        "name": "3.71 BILL NO. 7.03 – BLOCK WORKS             ",
+                                        "price": " 484,359.00 "
+                              },
+                              {
+                                        "name": "3.72 BILL NO. 7.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 22,842,364.00 "
+                              },
+                              {
+                                        "name": "3.73 BILL NO. 7.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 26,563,962.00 "
+                              },
+                              {
+                                        "name": "3.74 BILL NO. 7.06 – WOODEN WORKS                                             ",
+                                        "price": " 15,205,344.00 "
+                              },
+                              {
+                                        "name": "3.75 BILL NO. 7.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 38,060,627.00 "
+                              },
+                              {
+                                        "name": "3.76 BILL NO. 7.08 – KITCHEN CABINETS    ",
+                                        "price": " 5,805,644.00 "
+                              },
+                              {
+                                        "name": "3.77 BILL NO. 7.09 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 31,557,504.00 "
+                              },
+                              {
+                                        "name": "3.78 BILL NO. 7.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 30,736,907.00 "
+                              },
+                              {
+                                        "name": "3.79 BILL NO. 7.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 24,405,144.00 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 43,667,235.00 "
+                              },
+                              {
+                                        "name": "3.81 MUSANADA IT REQUIREMENTS",
+                                        "price": " 795,693.88 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 43,667,235.00 "
+                              }
+                    ]
+          },
+          {
+                    "Name": "Trojan General Contracting LLC ",
+                    "Data": [
+                              {
+                                        "name": "3 Commercial Envelope",
+                                        "price": " 734,350,000.00 "
+                              },
+                              {
+                                        "name": " 3.1 BILL No. 1 - PRELIMINARIES / GENERAL REQUIREMENTS ",
+                                        "price": " 51,373,523.39 "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 2 - INFRASTRUCTURE WORKS: ",
+                                        "price": " 209,015,779.48 "
+                              },
+                              {
+                                        "name": "3.3 Bill No. 2.01 - GROUND INVESTIGATION ",
+                                        "price": " 256,179.35 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 2.02 - DEMOLITION AND SITE CLEARANCE ",
+                                        "price": " 3,629,510.60 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 2.03 - EARTHWORKS ",
+                                        "price": " 19,257,206.93 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 2.04 - ROADS AND PAVINGS ",
+                                        "price": " 16,699,798.77 "
+                              },
+                              {
+                                        "name": "3.7 Bill No. 2.05 - STREET LIGHTING WORKS ",
+                                        "price": " 7,309,603.02 "
+                              },
+                              {
+                                        "name": "3.8 Bill No. 2.06 - STORM WATER DRAINAGE ",
+                                        "price": " 23,401,805.14 "
+                              },
+                              {
+                                        "name": "3.9 BLL NO. 2.07 - GRAVITY SEWER WORKS ",
+                                        "price": " 33,667,092.85 "
+                              },
+                              {
+                                        "name": "3.10 BLL NO. 2.08 : IRRIGATION WORKS",
+                                        "price": " 941,771.46 "
+                              },
+                              {
+                                        "name": "3.11 Bill 2.09 - WATER WORKS ",
+                                        "price": " 13,958,807.79 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 2.10 - TELECOMMUNICATION DUCT AND OTHER ACCESSORIES",
+                                        "price": " 7,113,087.99 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 2.11 - GAS LINE WORKS ",
+                                        "price": " 9,611,377.28 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 2.12- LANDSCAPE WORKS ",
+                                        "price": " 33,593,576.94 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 2.13 - ELECTRICAL BOQ FOR LV NETWORK ",
+                                        "price": " 39,575,961.36 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 3 - RETAIL SHOPS - 2 NOS",
+                                        "price": " 4,682,898.71 "
+                              },
+                              {
+                                        "name": "3.17 BILL No. 3.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 135,427.50 "
+                              },
+                              {
+                                        "name": "3.18 BILL NO. 3.02 – CONCRETE WORKS              ",
+                                        "price": " 1,464,250.37 "
+                              },
+                              {
+                                        "name": "3.19 BILL NO. 3.03 – BLOCK WORKS             ",
+                                        "price": " 610,620.91 "
+                              },
+                              {
+                                        "name": "3.20 BILL NO. 3.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 198,810.99 "
+                              },
+                              {
+                                        "name": "3.21 BILL NO. 3.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 288,820.62 "
+                              },
+                              {
+                                        "name": "3.22 BILL NO. 3.06 – WOODEN WORKS                                             ",
+                                        "price": " 32,371.52 "
+                              },
+                              {
+                                        "name": "3.23 BILL NO. 3.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 418,011.84 "
+                              },
+                              {
+                                        "name": "3.24 BILL NO. 3.08 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 1,446,616.80 "
+                              },
+                              {
+                                        "name": "3.25 BILL NO. 3.09 – SANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.26 BILL NO. 3.10 – AIR CONDITIONING WORKS         ",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.27 BILL NO. 3.11 – EXTERNAL WORKS  ",
+                                        "price": " 87,968.16 "
+                              },
+                              {
+                                        "name": "3.28 BILL NO. 4 - COMMUNITY CENTRE",
+                                        "price": " 3,571,308.85 "
+                              },
+                              {
+                                        "name": "3.29 BILL No. 4.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 37,141.40 "
+                              },
+                              {
+                                        "name": "3.30 BILL NO. 4.02 – CONCRETE WORKS              ",
+                                        "price": " 684,653.31 "
+                              },
+                              {
+                                        "name": "3.31 BILL NO. 4.03 – BLOCK WORKS             ",
+                                        "price": " 153,162.93 "
+                              },
+                              {
+                                        "name": "3.32 BILL NO. 4.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 111,376.37 "
+                              },
+                              {
+                                        "name": "3.33 BILL NO. 4.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 235,792.78 "
+                              },
+                              {
+                                        "name": "3.34 BILL NO. 4.06 – WOODEN WORKS                                             ",
+                                        "price": " 39,330.58 "
+                              },
+                              {
+                                        "name": "3.35 BILL NO. 4.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 371,586.69 "
+                              },
+                              {
+                                        "name": "3.36 BILL NO. 4.08 – KITCHEN CABINETS    ",
+                                        "price": " 23,504.72 "
+                              },
+                              {
+                                        "name": "3.37 BILL NO. 4.09 – ELECTRICAL INSTALLATIONS    ",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.38 BILL NO. 4.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.39 BILL NO. 4.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.40 BILL NO. 4.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 1,914,760.07 "
+                              },
+                              {
+                                        "name": "3.41 BILL NO. 5 - JUMA'A MOSQUE",
+                                        "price": " 9,026,626.63 "
+                              },
+                              {
+                                        "name": "3.42 BILL NO. 5.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 190,444.16 "
+                              },
+                              {
+                                        "name": "3.43 BILL NO. 5.02 – CONCRETE WORKS             ",
+                                        "price": " 3,259,845.52 "
+                              },
+                              {
+                                        "name": "3.44 BILL NO. 5.03 – BLOCK WORKS             ",
+                                        "price": " 462,095.68 "
+                              },
+                              {
+                                        "name": "3.45 BILL NO. 5.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 443,549.21 "
+                              },
+                              {
+                                        "name": "3.46 BILL NO. 5.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 353,897.91 "
+                              },
+                              {
+                                        "name": "3.47 BILL NO. 5.06 – WOODEN WORKS                                             ",
+                                        "price": " 144,199.79 "
+                              },
+                              {
+                                        "name": "3.48 BILL NO. 5.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 1,383,853.61 "
+                              },
+                              {
+                                        "name": "3.49 BILL NO. 5.08 – KITCHEN CABINETS AND WARDROBES   ",
+                                        "price": " 24,005.86 "
+                              },
+                              {
+                                        "name": "3.50 BILL NO. 5.09 – CONVEYING SYSTEMS",
+                                        "price": " 299,880.00 "
+                              },
+                              {
+                                        "name": "3.51 BILL NO. 5.10 – ELECTRICAL INSTALLATION",
+                                        "price": " 2,247,040.43 "
+                              },
+                              {
+                                        "name": "3.52 BILL NO. 5.11 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.53 BILL NO. 5.12 – AIR CONDITIONING WORKS         ",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.54 BILL NO. 5.13 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 217,814.46 "
+                              },
+                              {
+                                        "name": "3.55 BILL NO. 6 - LOCAL MOSQUE",
+                                        "price": " 6,593,989.04 "
+                              },
+                              {
+                                        "name": "3.56 BILL NO. 6.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 135,987.98 "
+                              },
+                              {
+                                        "name": "3.57 BILL NO. 6.02 – CONCRETE WORKS             ",
+                                        "price": " 2,729,678.50 "
+                              },
+                              {
+                                        "name": "3.58 BILL NO. 6.03 – BLOCK WORKS             ",
+                                        "price": " 224,880.20 "
+                              },
+                              {
+                                        "name": "3.59 BILL NO. 6.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 321,759.14 "
+                              },
+                              {
+                                        "name": "3.60 BILL NO. 6.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 257,302.34 "
+                              },
+                              {
+                                        "name": "3.61 BILL NO. 6.06 – WOODEN WORKS                                             ",
+                                        "price": " 123,506.58 "
+                              },
+                              {
+                                        "name": "3.62 BILL NO. 6.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 1,044,826.69 "
+                              },
+                              {
+                                        "name": "3.63 BILL NO. 6.08 – KITCHEN CABINETS    ",
+                                        "price": " 24,005.86 "
+                              },
+                              {
+                                        "name": "3.64 BILL NO. 6.09 – ELECTRICAL INSTALLATION",
+                                        "price": " 1,584,498.09 "
+                              },
+                              {
+                                        "name": "3.65 BILL NO. 6.10 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.66 BILL NO. 6.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.67 BILL NO. 6.12 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 147,543.66 "
+                              },
+                              {
+                                        "name": "3.68 BILL NO. 7 - VILLAS - 204 Nos",
+                                        "price": " 448,734,191.18 "
+                              },
+                              {
+                                        "name": "3.69 BILL No. 7.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 39,225,570.95 "
+                              },
+                              {
+                                        "name": "3.70 BILL NO. 7.02 – CONCRETE WORKS              ",
+                                        "price": " 169,267,029.23 "
+                              },
+                              {
+                                        "name": "3.71 BILL NO. 7.03 – BLOCK WORKS             ",
+                                        "price": " 584,269.58 "
+                              },
+                              {
+                                        "name": "3.72 BILL NO. 7.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 26,897,735.58 "
+                              },
+                              {
+                                        "name": "3.73 BILL NO. 7.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 20,331,431.01 "
+                              },
+                              {
+                                        "name": "3.74 BILL NO. 7.06 – WOODEN WORKS                                             ",
+                                        "price": " 12,170,068.80 "
+                              },
+                              {
+                                        "name": "3.75 BILL NO. 7.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 41,645,840.93 "
+                              },
+                              {
+                                        "name": "3.76 BILL NO. 7.08 – KITCHEN CABINETS    ",
+                                        "price": " 4,353,066.52 "
+                              },
+                              {
+                                        "name": "3.77 BILL NO. 7.09 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.78 BILL NO. 7.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 90,960,345.20 "
+                              },
+                              {
+                                        "name": "3.79 BILL NO. 7.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 43,298,833.38 "
+                              },
+                              {
+                                        "name": "3.81 MUSANADA IT REQUIREMENTS",
+                                        "price": " 1,351,682.72 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 43,298,833.38 "
+                              }
+                    ]
+          },
+          {
+                    "Name": "Amana Contracting & Steel Buildings Co. W.L.L.",
+                    "Data": [
+                              {
+                                        "name": "3 Commercial Envelope",
+                                        "price": " 920,000,000.00 "
+                              },
+                              {
+                                        "name": " 3.1 BILL No. 1 - PRELIMINARIES / GENERAL REQUIREMENTS ",
+                                        "price": " 52,003,459.77 "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 2 - INFRASTRUCTURE WORKS: ",
+                                        "price": " 205,369,590.00 "
+                              },
+                              {
+                                        "name": "3.3 Bill No. 2.01 - GROUND INVESTIGATION ",
+                                        "price": " 347,943.00 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 2.02 - DEMOLITION AND SITE CLEARANCE ",
+                                        "price": " 171,865.00 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 2.03 - EARTHWORKS ",
+                                        "price": " 12,149,213.00 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 2.04 - ROADS AND PAVINGS ",
+                                        "price": " 23,768,940.00 "
+                              },
+                              {
+                                        "name": "3.7 Bill No. 2.05 - STREET LIGHTING WORKS ",
+                                        "price": " 6,837,698.00 "
+                              },
+                              {
+                                        "name": "3.8 Bill No. 2.06 - STORM WATER DRAINAGE ",
+                                        "price": " 22,087,161.00 "
+                              },
+                              {
+                                        "name": "3.9 BLL NO. 2.07 - GRAVITY SEWER WORKS ",
+                                        "price": " 26,132,586.00 "
+                              },
+                              {
+                                        "name": "3.10 BLL NO. 2.08 : IRRIGATION WORKS",
+                                        "price": " 1,346,800.00 "
+                              },
+                              {
+                                        "name": "3.11 Bill 2.09 - WATER WORKS ",
+                                        "price": " 19,846,477.00 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 2.10 - TELECOMMUNICATION DUCT AND OTHER ACCESSORIES",
+                                        "price": " 8,808,474.00 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 2.11 - GAS LINE WORKS ",
+                                        "price": " 12,357,126.00 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 2.12- LANDSCAPE WORKS ",
+                                        "price": " 30,863,325.00 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 2.13 - ELECTRICAL BOQ FOR LV NETWORK ",
+                                        "price": " 40,651,982.00 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 3 - RETAIL SHOPS - 2 NOS",
+                                        "price": " 5,351,062.00 "
+                              },
+                              {
+                                        "name": "3.17 BILL No. 3.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 108,818.00 "
+                              },
+                              {
+                                        "name": "3.18 BILL NO. 3.02 – CONCRETE WORKS              ",
+                                        "price": " 1,864,817.00 "
+                              },
+                              {
+                                        "name": "3.19 BILL NO. 3.03 – BLOCK WORKS             ",
+                                        "price": " 744,348.00 "
+                              },
+                              {
+                                        "name": "3.20 BILL NO. 3.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 397,650.00 "
+                              },
+                              {
+                                        "name": "3.21 BILL NO. 3.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 321,808.00 "
+                              },
+                              {
+                                        "name": "3.22 BILL NO. 3.06 – WOODEN WORKS                                             ",
+                                        "price": " 41,852.00 "
+                              },
+                              {
+                                        "name": "3.23 BILL NO. 3.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 421,988.00 "
+                              },
+                              {
+                                        "name": "3.24 BILL NO. 3.08 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 802,415.00 "
+                              },
+                              {
+                                        "name": "3.25 BILL NO. 3.09 – SANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 334,502.00 "
+                              },
+                              {
+                                        "name": "3.26 BILL NO. 3.10 – AIR CONDITIONING WORKS         ",
+                                        "price": " 230,446.00 "
+                              },
+                              {
+                                        "name": "3.27 BILL NO. 3.11 – EXTERNAL WORKS  ",
+                                        "price": " 82,418.00 "
+                              },
+                              {
+                                        "name": "3.28 BILL NO. 4 - COMMUNITY CENTRE",
+                                        "price": " 4,153,246.00 "
+                              },
+                              {
+                                        "name": "3.29 BILL No. 4.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 67,700.00 "
+                              },
+                              {
+                                        "name": "3.30 BILL NO. 4.02 – CONCRETE WORKS              ",
+                                        "price": " 1,108,817.00 "
+                              },
+                              {
+                                        "name": "3.31 BILL NO. 4.03 – BLOCK WORKS             ",
+                                        "price": " 263,072.00 "
+                              },
+                              {
+                                        "name": "3.32 BILL NO. 4.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 224,322.00 "
+                              },
+                              {
+                                        "name": "3.33 BILL NO. 4.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 272,474.00 "
+                              },
+                              {
+                                        "name": "3.34 BILL NO. 4.06 – WOODEN WORKS                                             ",
+                                        "price": " 54,595.00 "
+                              },
+                              {
+                                        "name": "3.35 BILL NO. 4.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 449,141.00 "
+                              },
+                              {
+                                        "name": "3.36 BILL NO. 4.08 – KITCHEN CABINETS    ",
+                                        "price": " 14,222.00 "
+                              },
+                              {
+                                        "name": "3.37 BILL NO. 4.09 – ELECTRICAL INSTALLATIONS    ",
+                                        "price": " 482,012.00 "
+                              },
+                              {
+                                        "name": "3.38 BILL NO. 4.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 192,449.00 "
+                              },
+                              {
+                                        "name": "3.39 BILL NO. 4.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 477,171.00 "
+                              },
+                              {
+                                        "name": "3.40 BILL NO. 4.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 547,271.00 "
+                              },
+                              {
+                                        "name": "3.41 BILL NO. 5 - JUMA'A MOSQUE",
+                                        "price": " 9,970,796.00 "
+                              },
+                              {
+                                        "name": "3.42 BILL NO. 5.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 166,971.00 "
+                              },
+                              {
+                                        "name": "3.43 BILL NO. 5.02 – CONCRETE WORKS             ",
+                                        "price": " 3,631,992.00 "
+                              },
+                              {
+                                        "name": "3.44 BILL NO. 5.03 – BLOCK WORKS             ",
+                                        "price": " 688,394.00 "
+                              },
+                              {
+                                        "name": "3.45 BILL NO. 5.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 617,064.00 "
+                              },
+                              {
+                                        "name": "3.46 BILL NO. 5.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 257,496.00 "
+                              },
+                              {
+                                        "name": "3.47 BILL NO. 5.06 – WOODEN WORKS                                             ",
+                                        "price": " 183,228.00 "
+                              },
+                              {
+                                        "name": "3.48 BILL NO. 5.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 1,435,325.00 "
+                              },
+                              {
+                                        "name": "3.49 BILL NO. 5.08 – KITCHEN CABINETS AND WARDROBES   ",
+                                        "price": " 34,902.00 "
+                              },
+                              {
+                                        "name": "3.50 BILL NO. 5.09 – CONVEYING SYSTEMS",
+                                        "price": " 300,000.00 "
+                              },
+                              {
+                                        "name": "3.51 BILL NO. 5.10 – ELECTRICAL INSTALLATION",
+                                        "price": " 965,136.00 "
+                              },
+                              {
+                                        "name": "3.52 BILL NO. 5.11 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 566,705.00 "
+                              },
+                              {
+                                        "name": "3.53 BILL NO. 5.12 – AIR CONDITIONING WORKS         ",
+                                        "price": " 859,005.00 "
+                              },
+                              {
+                                        "name": "3.54 BILL NO. 5.13 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 264,578.00 "
+                              },
+                              {
+                                        "name": "3.55 BILL NO. 6 - LOCAL MOSQUE",
+                                        "price": " 7,081,033.75 "
+                              },
+                              {
+                                        "name": "3.56 BILL NO. 6.01 – EARTHWORK & EXCAVATION         ",
+                                        "price": " 124,080.00 "
+                              },
+                              {
+                                        "name": "3.57 BILL NO. 6.02 – CONCRETE WORKS             ",
+                                        "price": " 2,921,998.00 "
+                              },
+                              {
+                                        "name": "3.58 BILL NO. 6.03 – BLOCK WORKS             ",
+                                        "price": " 325,439.00 "
+                              },
+                              {
+                                        "name": "3.59 BILL NO. 6.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 445,933.00 "
+                              },
+                              {
+                                        "name": "3.60 BILL NO. 6.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 128,085.00 "
+                              },
+                              {
+                                        "name": "3.61 BILL NO. 6.06 – WOODEN WORKS                                             ",
+                                        "price": " 149,178.00 "
+                              },
+                              {
+                                        "name": "3.62 BILL NO. 6.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 1,071,828.75 "
+                              },
+                              {
+                                        "name": "3.63 BILL NO. 6.08 – KITCHEN CABINETS    ",
+                                        "price": " 19,538.00 "
+                              },
+                              {
+                                        "name": "3.64 BILL NO. 6.09 – ELECTRICAL INSTALLATION",
+                                        "price": " 729,065.00 "
+                              },
+                              {
+                                        "name": "3.65 BILL NO. 6.10 – SANISANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 448,227.00 "
+                              },
+                              {
+                                        "name": "3.66 BILL NO. 6.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 528,181.00 "
+                              },
+                              {
+                                        "name": "3.67 BILL NO. 6.12 – EXTERNAL WORKS AND CAR PARKING",
+                                        "price": " 189,481.00 "
+                              },
+                              {
+                                        "name": "3.68 BILL NO. 7 - VILLAS - 204 Nos",
+                                        "price": " 635,381,919.60 "
+                              },
+                              {
+                                        "name": "3.69 BILL No. 7.01 – EARTH WORKS & EXCAVATION           ",
+                                        "price": " 12,010,500.00 "
+                              },
+                              {
+                                        "name": "3.70 BILL NO. 7.02 – CONCRETE WORKS              ",
+                                        "price": " 317,749,999.40 "
+                              },
+                              {
+                                        "name": "3.71 BILL NO. 7.03 – BLOCK WORKS             ",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.72 BILL NO. 7.04 – WATERPROOFING AND ROOFING",
+                                        "price": " 26,626,831.20 "
+                              },
+                              {
+                                        "name": "3.73 BILL NO. 7.05 – ALUMINIUM AND METAL WORKS                                  ",
+                                        "price": " 23,601,372.00 "
+                              },
+                              {
+                                        "name": "3.74 BILL NO. 7.06 – WOODEN WORKS                                             ",
+                                        "price": " 15,642,516.00 "
+                              },
+                              {
+                                        "name": "3.75 BILL NO. 7.07 – FLOOR, WALL AND CEILING FINISHES",
+                                        "price": " 47,198,239.00 "
+                              },
+                              {
+                                        "name": "3.76 BILL NO. 7.08 – KITCHEN CABINETS    ",
+                                        "price": " 6,376,352.00 "
+                              },
+                              {
+                                        "name": "3.77 BILL NO. 7.09 – ELECTRICAL INSTALLATION AND FIRE FIGHTING          ",
+                                        "price": " 39,581,372.00 "
+                              },
+                              {
+                                        "name": "3.78 BILL NO. 7.10 – SANANITARY, WATER SUPPLY, DRAINAGE AND FIRE PROTECTION    ",
+                                        "price": " 55,359,464.00 "
+                              },
+                              {
+                                        "name": "3.79 BILL NO. 7.11 – AIR CONDITIONING WORKS         ",
+                                        "price": " 31,828,547.00 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 59,406,727.00 "
+                              },
+                              {
+                                        "name": "3.81 MUSANADA IT REQUIREMENTS",
+                                        "price": " 688,892.88 "
+                              },
+                              {
+                                        "name": "3.80 BILL NO. 7.12 –   EXTERNAL WORKS AND CAR PARKING ",
+                                        "price": " 59,406,727.00 "
+                              }
+                    ]
+          }
+]

@@ -1,0 +1,626 @@
+[
+          {
+                    "Name": "Emirates Link Maltauro ",
+                    "Data": [
+                              {
+                                        "name": "3.1 Notes",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 01: GENERAL REQUIREMENTS / PRELIMINARIES",
+                                        "price": " 20,206,213 "
+                              },
+                              {
+                                        "name": "3.3 BILL NO. 02: SITE WORKS",
+                                        "price": " 5,512,686 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 03: CONCRETE WORKS",
+                                        "price": " 18,307,480 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 04: MASONRY",
+                                        "price": " 2,003,639 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 05: METAL WORKS",
+                                        "price": " 3,927,852 "
+                              },
+                              {
+                                        "name": "3.7 BILL NO. 06: WOOD, PLASTICS AND COMPOSITES",
+                                        "price": " 171,505 "
+                              },
+                              {
+                                        "name": "3.8 BILL NO. 07: THERMAL AND MOISTURE PROTECTION",
+                                        "price": " 3,861,592 "
+                              },
+                              {
+                                        "name": "3.9 BILL NO. 08: OPENINGS",
+                                        "price": " 10,629,994 "
+                              },
+                              {
+                                        "name": "3.10 BILL NO. 09: FINISHES",
+                                        "price": " 10,743,904 "
+                              },
+                              {
+                                        "name": "3.11 BILL NO. 10: FURNITURE / FURNISHING / EQUIPMENT",
+                                        "price": " 9,004,754 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 11: SPECIALTIES",
+                                        "price": " 356,504 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 14: EQUIPMENT",
+                                        "price": " 576,557 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 15: MECHANICAL",
+                                        "price": " 16,853,476 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 16: ELECTRICAL",
+                                        "price": " 13,196,217 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 17: EXTERNAL WORKS",
+                                        "price": " 5,858,167 "
+                              },
+                              {
+                                        "name": "3.17 BILL NO. 18  Provisional Sum",
+                                        "price": " 8,783,700 "
+                              },
+                              {
+                                        "name": "3.18 Absher Initiative",
+                                        "price": " 4,005,760 "
+                              }
+                    ]
+          },
+          {
+                    "Name": " Al Mezin General Contracting ",
+                    "Data": [
+                              {
+                                        "name": "3.1 Notes",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 01: GENERAL REQUIREMENTS / PRELIMINARIES",
+                                        "price": " 10,150,000 "
+                              },
+                              {
+                                        "name": "3.3 BILL NO. 02: SITE WORKS",
+                                        "price": " 9,767,770 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 03: CONCRETE WORKS",
+                                        "price": " 15,649,630 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 04: MASONRY",
+                                        "price": " 3,046,275 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 05: METAL WORKS",
+                                        "price": " 9,166,086 "
+                              },
+                              {
+                                        "name": "3.7 BILL NO. 06: WOOD, PLASTICS AND COMPOSITES",
+                                        "price": " 222,220 "
+                              },
+                              {
+                                        "name": "3.8 BILL NO. 07: THERMAL AND MOISTURE PROTECTION",
+                                        "price": " 5,268,471 "
+                              },
+                              {
+                                        "name": "3.9 BILL NO. 08: OPENINGS",
+                                        "price": " 10,166,562 "
+                              },
+                              {
+                                        "name": "3.10 BILL NO. 09: FINISHES",
+                                        "price": " 15,544,660 "
+                              },
+                              {
+                                        "name": "3.11 BILL NO. 10: FURNITURE / FURNISHING / EQUIPMENT",
+                                        "price": " 12,842,980 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 11: SPECIALTIES",
+                                        "price": " 297,100 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 14: EQUIPMENT",
+                                        "price": " 1,102,000 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 15: MECHANICAL",
+                                        "price": " 19,646,733 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 16: ELECTRICAL",
+                                        "price": " 11,000,000 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 17: EXTERNAL WORKS",
+                                        "price": " 6,331,253 "
+                              },
+                              {
+                                        "name": "3.17 BILL NO. 18  Provisional Sum",
+                                        "price": " 9,792,500 "
+                              },
+                              {
+                                        "name": "3.18 Absher Initiative",
+                                        "price": " 4,005,760 "
+                              }
+                    ]
+          },
+          {
+                    "Name": " Engineering Unit General Contracting ",
+                    "Data": [
+                              {
+                                        "name": "3.1 Notes",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 01: GENERAL REQUIREMENTS / PRELIMINARIES",
+                                        "price": " 8,352,664 "
+                              },
+                              {
+                                        "name": "3.3 BILL NO. 02: SITE WORKS",
+                                        "price": " 6,961,123 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 03: CONCRETE WORKS",
+                                        "price": " 19,149,484 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 04: MASONRY",
+                                        "price": " 2,868,172 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 05: METAL WORKS",
+                                        "price": " 7,589,400 "
+                              },
+                              {
+                                        "name": "3.7 BILL NO. 06: WOOD, PLASTICS AND COMPOSITES",
+                                        "price": " 228,835 "
+                              },
+                              {
+                                        "name": "3.8 BILL NO. 07: THERMAL AND MOISTURE PROTECTION",
+                                        "price": " 3,896,696 "
+                              },
+                              {
+                                        "name": "3.9 BILL NO. 08: OPENINGS",
+                                        "price": " 11,973,895 "
+                              },
+                              {
+                                        "name": "3.10 BILL NO. 09: FINISHES",
+                                        "price": " 15,934,049 "
+                              },
+                              {
+                                        "name": "3.11 BILL NO. 10: FURNITURE / FURNISHING / EQUIPMENT",
+                                        "price": " 10,882,618 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 11: SPECIALTIES",
+                                        "price": " 369,040 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 14: EQUIPMENT",
+                                        "price": " 736,600 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 15: MECHANICAL",
+                                        "price": " 21,710,912 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 16: ELECTRICAL",
+                                        "price": " 18,820,000 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 17: EXTERNAL WORKS",
+                                        "price": " 8,768,952 "
+                              },
+                              {
+                                        "name": "3.17 BILL NO. 18  Provisional Sum",
+                                        "price": " 8,443,800 "
+                              },
+                              {
+                                        "name": "3.18 Absher Initiative",
+                                        "price": " 4,005,760 "
+                              }
+                    ]
+          },
+          {
+                    "Name": " Orient House for Development & Construction Co. LLC ",
+                    "Data": [
+                              {
+                                        "name": "3.1 Notes",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 01: GENERAL REQUIREMENTS / PRELIMINARIES",
+                                        "price": " 20,559,317 "
+                              },
+                              {
+                                        "name": "3.3 BILL NO. 02: SITE WORKS",
+                                        "price": " 7,429,456 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 03: CONCRETE WORKS",
+                                        "price": " 18,646,273 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 04: MASONRY",
+                                        "price": " 2,021,865 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 05: METAL WORKS",
+                                        "price": " 8,922,300 "
+                              },
+                              {
+                                        "name": "3.7 BILL NO. 06: WOOD, PLASTICS AND COMPOSITES",
+                                        "price": " 513,200 "
+                              },
+                              {
+                                        "name": "3.8 BILL NO. 07: THERMAL AND MOISTURE PROTECTION",
+                                        "price": " 3,713,292 "
+                              },
+                              {
+                                        "name": "3.9 BILL NO. 08: OPENINGS",
+                                        "price": " 15,442,199 "
+                              },
+                              {
+                                        "name": "3.10 BILL NO. 09: FINISHES",
+                                        "price": " 18,239,382 "
+                              },
+                              {
+                                        "name": "3.11 BILL NO. 10: FURNITURE / FURNISHING / EQUIPMENT",
+                                        "price": " 14,228,136 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 11: SPECIALTIES",
+                                        "price": " 680,100 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 14: EQUIPMENT",
+                                        "price": " 1,130,000 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 15: MECHANICAL",
+                                        "price": " 11,872,550 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 16: ELECTRICAL",
+                                        "price": " 6,939,665 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 17: EXTERNAL WORKS",
+                                        "price": " 9,308,469 "
+                              },
+                              {
+                                        "name": "3.17 BILL NO. 18  Provisional Sum",
+                                        "price": " 8,808,700 "
+                              },
+                              {
+                                        "name": "3.18 Absher Initiative",
+                                        "price": " 4,286,163 "
+                              }
+                    ]
+          },
+          {
+                    "Name": " Tornado General Contracting ",
+                    "Data": [
+                              {
+                                        "name": "3.1 Notes",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 01: GENERAL REQUIREMENTS / PRELIMINARIES",
+                                        "price": " 14,442,270 "
+                              },
+                              {
+                                        "name": "3.3 BILL NO. 02: SITE WORKS",
+                                        "price": " 7,759,045 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 03: CONCRETE WORKS",
+                                        "price": " 20,421,629 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 04: MASONRY",
+                                        "price": " 1,982,704 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 05: METAL WORKS",
+                                        "price": " 4,022,783 "
+                              },
+                              {
+                                        "name": "3.7 BILL NO. 06: WOOD, PLASTICS AND COMPOSITES",
+                                        "price": " 348,355 "
+                              },
+                              {
+                                        "name": "3.8 BILL NO. 07: THERMAL AND MOISTURE PROTECTION",
+                                        "price": " 3,631,192 "
+                              },
+                              {
+                                        "name": "3.9 BILL NO. 08: OPENINGS",
+                                        "price": " 14,240,650 "
+                              },
+                              {
+                                        "name": "3.10 BILL NO. 09: FINISHES",
+                                        "price": " 10,684,756 "
+                              },
+                              {
+                                        "name": "3.11 BILL NO. 10: FURNITURE / FURNISHING / EQUIPMENT",
+                                        "price": " 12,608,749 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 11: SPECIALTIES",
+                                        "price": " 203,711 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 14: EQUIPMENT",
+                                        "price": " 777,150 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 15: MECHANICAL",
+                                        "price": " 23,155,795 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 16: ELECTRICAL",
+                                        "price": " 17,547,888 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 17: EXTERNAL WORKS",
+                                        "price": " 10,235,562 "
+                              },
+                              {
+                                        "name": "3.17 BILL NO. 18  Provisional Sum",
+                                        "price": " 9,032,000 "
+                              },
+                              {
+                                        "name": "3.18 Absher Initiative",
+                                        "price": " 4,005,760 "
+                              }
+                    ]
+          },
+          {
+                    "Name": " Civil Power general Contracting L.L.C ",
+                    "Data": [
+                              {
+                                        "name": "3.1 Notes",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 01: GENERAL REQUIREMENTS / PRELIMINARIES",
+                                        "price": " 16,500,000 "
+                              },
+                              {
+                                        "name": "3.3 BILL NO. 02: SITE WORKS",
+                                        "price": " 10,500,000 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 03: CONCRETE WORKS",
+                                        "price": " 26,000,000 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 04: MASONRY",
+                                        "price": " 3,300,000 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 05: METAL WORKS",
+                                        "price": " 6,020,980 "
+                              },
+                              {
+                                        "name": "3.7 BILL NO. 06: WOOD, PLASTICS AND COMPOSITES",
+                                        "price": " 190,201 "
+                              },
+                              {
+                                        "name": "3.8 BILL NO. 07: THERMAL AND MOISTURE PROTECTION",
+                                        "price": " 3,063,083 "
+                              },
+                              {
+                                        "name": "3.9 BILL NO. 08: OPENINGS",
+                                        "price": " 10,994,692 "
+                              },
+                              {
+                                        "name": "3.10 BILL NO. 09: FINISHES",
+                                        "price": " 13,987,942 "
+                              },
+                              {
+                                        "name": "3.11 BILL NO. 10: FURNITURE / FURNISHING / EQUIPMENT",
+                                        "price": " 7,224,210 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 11: SPECIALTIES",
+                                        "price": " 288,558 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 14: EQUIPMENT",
+                                        "price": " 860,524 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 15: MECHANICAL",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 16: ELECTRICAL",
+                                        "price": " 45,390,107 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 17: EXTERNAL WORKS",
+                                        "price": " 6,379,643 "
+                              },
+                              {
+                                        "name": "3.17 BILL NO. 18  Provisional Sum",
+                                        "price": " 9,027,300 "
+                              },
+                              {
+                                        "name": "3.18 Absher Initiative",
+                                        "price": " 4,005,760 "
+                              }
+                    ]
+          },
+          {
+                    "Name": " FORCE10 UNITED ARAB EMIRATES LLC ",
+                    "Data": [
+                              {
+                                        "name": "3.1 Notes",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 01: GENERAL REQUIREMENTS / PRELIMINARIES",
+                                        "price": " 15,641,836 "
+                              },
+                              {
+                                        "name": "3.3 BILL NO. 02: SITE WORKS",
+                                        "price": " 6,255,804 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 03: CONCRETE WORKS",
+                                        "price": " 18,469,241 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 04: MASONRY",
+                                        "price": " 1,932,495 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 05: METAL WORKS",
+                                        "price": " 5,330,128 "
+                              },
+                              {
+                                        "name": "3.7 BILL NO. 06: WOOD, PLASTICS AND COMPOSITES",
+                                        "price": " 184,768 "
+                              },
+                              {
+                                        "name": "3.8 BILL NO. 07: THERMAL AND MOISTURE PROTECTION",
+                                        "price": " 3,900,306 "
+                              },
+                              {
+                                        "name": "3.9 BILL NO. 08: OPENINGS",
+                                        "price": " 14,993,616 "
+                              },
+                              {
+                                        "name": "3.10 BILL NO. 09: FINISHES",
+                                        "price": " 16,742,912 "
+                              },
+                              {
+                                        "name": "3.11 BILL NO. 10: FURNITURE / FURNISHING / EQUIPMENT",
+                                        "price": " 11,513,723 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 11: SPECIALTIES",
+                                        "price": " 643,584 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 14: EQUIPMENT",
+                                        "price": " 995,840 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 15: MECHANICAL",
+                                        "price": " 25,280,000 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 16: ELECTRICAL",
+                                        "price": " 22,400,000 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 17: EXTERNAL WORKS",
+                                        "price": " 7,581,987 "
+                              },
+                              {
+                                        "name": "3.17 BILL NO. 18  Provisional Sum",
+                                        "price": " 8,716,000 "
+                              },
+                              {
+                                        "name": "3.18 Absher Initiative",
+                                        "price": " 4,005,760 "
+                              }
+                    ]
+          },
+          {
+                    "Name": " AL JABER BUILDING LLC ",
+                    "Data": [
+                              {
+                                        "name": "3.1 Notes",
+                                        "price": " -   "
+                              },
+                              {
+                                        "name": "3.2 BILL NO. 01: GENERAL REQUIREMENTS / PRELIMINARIES",
+                                        "price": " 30,958,560 "
+                              },
+                              {
+                                        "name": "3.3 BILL NO. 02: SITE WORKS",
+                                        "price": " 8,929,646 "
+                              },
+                              {
+                                        "name": "3.4 BILL NO. 03: CONCRETE WORKS",
+                                        "price": " 20,449,634 "
+                              },
+                              {
+                                        "name": "3.5 BILL NO. 04: MASONRY",
+                                        "price": " 2,024,564 "
+                              },
+                              {
+                                        "name": "3.6 BILL NO. 05: METAL WORKS",
+                                        "price": " 3,453,670 "
+                              },
+                              {
+                                        "name": "3.7 BILL NO. 06: WOOD, PLASTICS AND COMPOSITES",
+                                        "price": " 1,079,630 "
+                              },
+                              {
+                                        "name": "3.8 BILL NO. 07: THERMAL AND MOISTURE PROTECTION",
+                                        "price": " 3,730,810 "
+                              },
+                              {
+                                        "name": "3.9 BILL NO. 08: OPENINGS",
+                                        "price": " 14,827,363 "
+                              },
+                              {
+                                        "name": "3.10 BILL NO. 09: FINISHES",
+                                        "price": " 12,406,537 "
+                              },
+                              {
+                                        "name": "3.11 BILL NO. 10: FURNITURE / FURNISHING / EQUIPMENT",
+                                        "price": " 14,368,730 "
+                              },
+                              {
+                                        "name": "3.12 BILL NO. 11: SPECIALTIES",
+                                        "price": " 319,702 "
+                              },
+                              {
+                                        "name": "3.13 BILL NO. 14: EQUIPMENT",
+                                        "price": " 1,071,235 "
+                              },
+                              {
+                                        "name": "3.14 BILL NO. 15: MECHANICAL",
+                                        "price": " 28,657,736 "
+                              },
+                              {
+                                        "name": "3.15 BILL NO. 16: ELECTRICAL",
+                                        "price": " 31,813,788 "
+                              },
+                              {
+                                        "name": "3.16 BILL NO. 17: EXTERNAL WORKS",
+                                        "price": " 12,541,358 "
+                              },
+                              {
+                                        "name": "3.17 BILL NO. 18  Provisional Sum",
+                                        "price": " 8,967,700 "
+                              },
+                              {
+                                        "name": "3.18 Absher Initiative",
+                                        "price": " 4,005,760 "
+                              }
+                    ]
+          },
+          {
+                    "Name": "Chief Contracting Co. LLC",
+                    "Data": []
+          },
+          {
+                    "Name": "Ranya Contracting Establishment",
+                    "Data": []
+          }
+]
